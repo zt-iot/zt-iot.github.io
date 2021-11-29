@@ -16,37 +16,37 @@ We also promote social acceptance of IoT by ensuring the accountability.
   <tr>
     <td>
       <b>Research Director</b><br>
-      Atsuko Takefusa<br>
-      Professor<br>
-      Information Systems Architecture Sciences Research Division<br>
-      National Institute of Informatics
+      <a href="https://researchmap.jp/takefusa?lang=en">Atsuko Takefusa</a></br>
+      Professor</br>
+      Information Systems Architecture Sciences Research Division</br>
+      <a href="https://www.nii.ac.jp/en/">National Institute of Informatics</a>
     </td>
   </tr>
   <tr>
     <td>
-      <b>Collaborator</b><br>
-      Atsushi Igarashi<br>
-      Professor<br>
-      Department of Communications and Computer Engineering<br>
-      Graduate School of Informatics<br>
+      <b>Collaborator</b></br>
+      Atsushi Igarashi</br>
+      Professor</br>
+      Department of Communications and Computer Engineering</br>
+      Graduate School of Informatics</br>
       Kyoto University
     </td>
   </tr>
   <tr>
     <td>
-      <b>Collaborator</b><br>
-      Taro Sekiyama<br>
-      Assistant Professor<br>
-      Information Systems Architecture Sciences Research Division<br>
+      <b>Collaborator</b></br>
+      Taro Sekiyama</br>
+      Assistant Professor</br>
+      Information Systems Architecture Sciences Research Division</br>
       National Institute of Informatics
     </td>
   </tr>
   <tr>
     <td>
-      <b>Collaborator</b><br>
-      Toshihiro Matsui<br>
-      Professor<br>
-      Graduate School of Information Security<br>
+      <b>Collaborator</b></br>
+      Toshihiro Matsui</br>
+      Professor</br>
+      Graduate School of Information Security</br>
       Institute of Information Security
     </td>
   </tr>
