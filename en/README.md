@@ -1,3 +1,5 @@
+[\[Japanese\]](https://zt-iot.nii.ac.jp/)
+
 # Zero Trust IoT by Formal Verification and System Software
 CREST Research Area: [\[Society 5.0 System Software\] Creation of System Software for Society 5.0 by Integrating Fundamental Theories and System Platform Technologies](https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2021-2.html)
 
