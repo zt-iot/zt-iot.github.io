@@ -1,3 +1,5 @@
+[\[English\]](https://zt-iot.nii.ac.jp/en/)
+
 # 形式検証とシステムソフトウェアの協働によるゼロトラストIoT
 JST CREST研究領域：[基礎理論とシステム基盤技術の融合によるSociety 5.0のための基盤ソフトウェアの創出 (S5基盤ソフト)](https://www.jst.go.jp/kisoken/crest/research_area/ongoing/bunya2021-2.html)
 
@@ -11,26 +13,30 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 ## メンバー
 <table>
   <tr>
-    <td>研究代表者<br>
-      竹房 あつ子<br>
-      国立情報学研究所 アーキテクチャ科学研究系・教授
+    <td>
+      <b>研究代表者</b></br>
+      <a href="https://researchmap.jp/takefusa">竹房 あつ子</a></br>
+      <a href="https://www.nii.ac.jp/">国立情報学研究所</a> アーキテクチャ科学研究系・教授
     </td>
   </tr>
   <tr>
-    <td>主たる共同研究者<br>
-      五十嵐　淳<br>
+    <td>
+      <b>主たる共同研究者</b></br>
+      五十嵐　淳</br>
       京都大学 大学院情報学研究科 通信情報システム専攻・教授
     </td>
   </tr>
   <tr>
-    <td>主たる共同研究者<br>
-      関山　太朗<br>
+    <td>
+      <b>主たる共同研究者</b></br>
+      関山　太朗</br>
       国立情報学研究所 アーキテクチャ科学研究系・助教
     </td>
   </tr>
   <tr>
-    <td>主たる共同研究者<br>
-      松井　俊浩<br>
+    <td>
+      <b>主たる共同研究者</b></br>
+      松井　俊浩</br>
       情報セキュリティ大学院大学 情報セキュリティ研究科・教授
     </td>
   </tr>
