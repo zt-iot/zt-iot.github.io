@@ -4,7 +4,7 @@
 JST CREST研究領域：[基礎理論とシステム基盤技術の融合によるSociety 5.0のための基盤ソフトウェアの創出 (S5基盤ソフト)](https://www.jst.go.jp/kisoken/crest/research_area/ongoing/bunya2021-2.html)
 
 ## Topics
-* 2021/09/29 [アーキテクチャ科学研究系 竹房研究室 特任研究員（特定有期雇用職員・ポスドク相当） 募集](https://www.nii.ac.jp/about/recruit/2021/0929.html)
+* 2022/01/12 [（NIIシステムグループ）特任研究員（特定有期雇用職員・ポスドク相当）【JST CREST 形式検証とシステムソフトウェアの協働によるゼロトラストIoT】 募集](https://www.nii.ac.jp/about/recruit/2022/0112.html)
 * 2021/09/21 [2021年度 戦略的創造研究推進事業 (CREST)，研究領域「基礎理論とシステム基盤技術の融合によるSociety 5.0のための基盤ソフトウェアの創出 (S5基盤ソフト)」に採択されました．](https://www.jst.go.jp/kisoken/crest/application/2021/210921/210921crest.pdf)
 
 ## 研究概要
