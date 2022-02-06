@@ -26,7 +26,7 @@ We also promote social acceptance of IoT by ensuring the accountability.
  
  <tr>
     <td>
-	<a href="https://researchmap.jp/yutaka_ishikawa?lang=en">Yutaka Ishikawa<a><br>
+	<a href="https://researchmap.jp/yutaka_ishikawa?lang=en">Yutaka Ishikawa</a><br>
 	Professor, 
       Information Systems Architecture Sciences Research Division, <br>
 	National Institute of Informatics
