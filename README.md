@@ -11,35 +11,174 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 形式検証とシステムソフトウェアの融合により、ゼロトラスト(ZT)の概念を踏襲した安全なIoTシステムを実現します。理論研究では、IoTのトラストチェーンの正当性に数学的証明を与え、動的検証の併用で未知の脅威にも対応します。システムソフト研究では理論的成果と連係して実行隔離・自動検知・自動対処機構を開発し，ZT-IoTを実証します。アカウンタビリティを保証することでIoTの社会受容を促進します。
 
 ## メンバー
+<p>NIIシステムソフトウェアグループ</p>
 <table>
   <tr>
     <td>
       <b>研究代表者</b><br>
-      <a href="https://researchmap.jp/takefusa">竹房 あつ子</a><br>
-      <a href="https://www.nii.ac.jp/">国立情報学研究所</a> アーキテクチャ科学研究系・教授
+      <a href="https://researchmap.jp/takefusa"> 竹房 あつ子</a><br>
+      <a href="https://www.nii.ac.jp/">国立情報学研究所</a> アーキテクチャ科学研究系 教授
     </td>
   </tr>
-  <tr>
+ 
+ <tr>
     <td>
-      <b>主たる共同研究者</b><br>
-      五十嵐　淳<br>
-      京都大学 大学院情報学研究科 通信情報システム専攻・教授
+	<a href="https://researchmap.jp/yutaka_ishikawa">石川 裕</a><br>
+	国立情報学研究所 アーキテクチャ科学研究系 教授
     </td>
   </tr>
-  <tr>
+ 
+ <tr>
     <td>
-      <b>主たる共同研究者</b><br>
-      関山　太朗<br>
-      国立情報学研究所 アーキテクチャ科学研究系・助教
+	<a href="https://researchmap.jp/aida?lang=ja">合田 憲人</a><br>
+	国立情報学研究所 アーキテクチャ科学研究系 教授
     </td>
   </tr>
-  <tr>
+
+ <tr>
     <td>
-      <b>主たる共同研究者</b><br>
-      松井　俊浩<br>
-      情報セキュリティ大学院大学 情報セキュリティ研究科・教授
+	<a href="https://researchmap.jp/smzs?lang=ja">清水 さや子</a><br>
+	国立情報学研究所 アーキテクチャ科学研究系 助教
+    </td>
+  </tr>
+
+ <tr>
+    <td>
+	<a href="https://researchmap.jp/7000026496?lang=ja">北川 直哉</a><br>
+	国立情報学研究所 学術ネットワーク研究開発センター 特任准教授
+    </td>
+  </tr>
+
+ <tr>
+    <td>
+	<a href="https://researchmap.jp/kobayashikumiko?lang=ja">小林 久美子</a><br>
+	国立情報学研究所 クラウド基盤研究開発センター 特任研究員
+    </td>
+  </tr>
+
+ <tr>
+    <td>
+	<a href="https://researchmap.jp/sakaneeisaku?lang=ja">坂根 栄作</a><br>
+	国立情報学研究所 学術基盤推進部 特任准教授
+    </td>
+  </tr>
+ <tr>
+    <td>
+	<a href="https://researchmap.jp/nishimuratakeshi?lang=ja">西村 健</a><br>
+	国立情報学研究所 学術基盤推進部 特任研究員
     </td>
   </tr>
 </table>
+
+<p>京大理論グループ</p>
+<table>
+  <tr>
+    <td>
+	<b>主たる研究代表者</b><br>
+	<a href="https://researchmap.jp/Atsushi.Igarashi?lang=ja"> 五十嵐 淳</a><br>
+	<a href="https://www.i.kyoto-u.ac.jp">京都大学</a> 大学院情報学研究科 教授
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+	<a href="https://researchmap.jp/ksuenaga?lang=ja">末永 幸平</a><br>
+	京都大学 大学院情報学研究科 准教授
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+	<a href="https://researchmap.jp/mwaga?lang=ja">和賀 正樹</a><br>
+	京都大学 大学院情報学研究科 助教
+    </td>
+  </tr>  
+</table>
+
+<p>NII理論グループ</p>
+<table>
+  <tr>
+    <td>
+	<b>主たる研究代表者</b><br>
+	<a href="https://researchmap.jp/t-sekiym?lang=ja">関山 太朗</a><br>
+	<a href="https://www.nii.ac.jp/">国立情報学研究所</a> アーキテクチャ科学研究系 助教
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://researchmap.jp/f-ishikawa?lang=ja">石川 冬樹</a><br>
+      国立情報学研究所 アーキテクチャ科学研究系 准教授
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://researchmap.jp/shinya_katsumata?lang=ja">勝股 審也</a><br>
+      国立情報学研究所 アーキテクチャ科学研究系 特任准教授
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://researchmap.jp/read0136635?lang=ja">蓮尾 一郎</a><br>
+      国立情報学研究所 アーキテクチャ科学研究系 准教授
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://researchmap.jp/kensuke/?lang=ja">福田 健介</a><br>
+      国立情報学研究所 アーキテクチャ科学研究系 准教授
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      中林 美郷<br>
+      <a href="https://www.nii.ac.jp/graduate/index.html">総合研究大学院大学</a> 複合科学研究科情報学専攻 大学院生（博士課程）
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      椎葉 瑠星<br>
+      総合研究大学院大学 複合科学研究科情報学専攻 大学院生（博士課程）
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      田口 研治<br>
+      国立情報学研究所 アーキテクチャ科学研究系 特任研究員
+    </td>
+  </tr>
+</table>
+
+<p>IISECシステムソフトウェアグループ</p>
+<table>
+  <tr>
+    <td>
+	<b>主たる研究代表者</b><br>
+	<a href="https://www.iisec.ac.jp/education/professors/matsui.html">松井 俊浩</a><br>
+	<a href="https://www.iisec.ac.jp">情報セキュリティ大学院大学</a> 情報セキュリティ研究科 教授
+    </td>
+  </tr>
+ 
+ <tr>
+    <td>
+	若月 里香<br>
+	情報セキュリティ大学院大学 情報セキュリティ研究科 特任助手
+    </td>
+  </tr>
+
+ <tr>
+    <td>
+	小野 泰司<br>
+	情報セキュリティ大学院大学 情報セキュリティ研究科 特任助手
+    </td>
+  </tr>
+</table>
+
 
 ## 研究業績
