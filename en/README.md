@@ -87,6 +87,7 @@ We also promote social acceptance of IoT by ensuring the accountability.
   </tr>
 </table>
 
+	
 <p>Igarashi Gr.</p>
 <table>
   <tr>
@@ -120,6 +121,7 @@ We also promote social acceptance of IoT by ensuring the accountability.
     </td>
   </tr>  
 </table>
+
 
 <p>Sekiyama Gr.</p>
 <table>
@@ -199,6 +201,7 @@ We also promote social acceptance of IoT by ensuring the accountability.
   </tr>
 </table>
 
+	
 <p>Matsui Gr.</p>
 <table>
   <tr>
