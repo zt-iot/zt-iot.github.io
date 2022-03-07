@@ -1,15 +1,27 @@
 [\[English\]](https://zt-iot.nii.ac.jp/en/)
 
+<table>
+  <tr>
+    <td> <a href="#topics">Topics</a></td>
+    <td> <a href="#overview">研究概要</a></td>
+    <td> <a href="#member">メンバー</a></td>
+    <td> <a href="#publications">研究業績</a></td>
+  </tr>
+</table>
+
 # 形式検証とシステムソフトウェアの協働によるゼロトラストIoT
 JST CREST研究領域：[基礎理論とシステム基盤技術の融合によるSociety 5.0のための基盤ソフトウェアの創出 (S5基盤ソフト)](https://www.jst.go.jp/kisoken/crest/research_area/ongoing/bunya2021-2.html)
 
+<a name="topics"> </a>
 ## Topics
 * 2022/01/12 [（NIIシステムグループ）特任研究員（特定有期雇用職員・ポスドク相当）【JST CREST 形式検証とシステムソフトウェアの協働によるゼロトラストIoT】 募集](https://www.nii.ac.jp/about/recruit/2022/0112.html)
 * 2021/09/21 [2021年度 戦略的創造研究推進事業 (CREST)，研究領域「基礎理論とシステム基盤技術の融合によるSociety 5.0のための基盤ソフトウェアの創出 (S5基盤ソフト)」に採択されました．](https://www.jst.go.jp/kisoken/crest/application/2021/210921/210921crest.pdf)
 
+<a name="overview"> </a>
 ## 研究概要
 形式検証とシステムソフトウェアの融合により、ゼロトラスト(ZT)の概念を踏襲した安全なIoTシステムを実現します。理論研究では、IoTのトラストチェーンの正当性に数学的証明を与え、動的検証の併用で未知の脅威にも対応します。システムソフト研究では理論的成果と連係して実行隔離・自動検知・自動対処機構を開発し，ZT-IoTを実証します。アカウンタビリティを保証することでIoTの社会受容を促進します。
 
+<a name="member"> </a>
 ## メンバー
 <p>NIIシステムソフトウェアグループ</p>
 <table>
@@ -180,5 +192,12 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
   </tr>
 </table>
 
-
+<a name="publications"> </a>
 ## 研究業績
+- 2021年度
+  - [Technical Report, w/o peer review] ZT-IoT: ゼロトラストIoTのためのシステムソフトウェア構築に向けて．<br>
+竹房 あつ子, 五十嵐 淳, 関山 太郎, 松井 俊浩, 小野 泰司, 福田 健介, 蓮尾 一郎, 合田 憲人, 石川 裕，<br>
+情報処理学会研究報告, vol. 2022-OS-154, no. 3, pp. 1-16, 2022年3月.<br>
+  - [Poster] ZT-IoT: ゼロトラストIoTのためのシステムソフトウェアの検討．<br>
+竹房 あつ子, 五十嵐 淳, 関山 太郎, 松井 俊浩, 小野 泰司, 福田 健介, 蓮尾 一郎, 合田 憲人, 石川 裕，<br>
+情報処理学会 第154回OS研究発表会, 2022年3月.<br>
