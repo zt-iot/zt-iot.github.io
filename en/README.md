@@ -11,6 +11,9 @@ In the formal verification research, we provide mathematical proofs for the legi
 In the system software research, we develop mechanisms for isolated execution, automatic detection, and automatic countermeasure in conjunction with the theoretical results in order to demonstrate zero trust IoT. 
 We also promote social acceptance of IoT by ensuring the accountability.
 
+<img src="../images/overview-EN_rgb.jpg" width="100%" title="Overview of the ZT-IoT project.">
+
+
 ## Members
 <p>Takefusa Gr.</p>
 <table>
