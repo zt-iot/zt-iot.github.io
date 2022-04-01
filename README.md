@@ -21,9 +21,8 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 ## 研究概要
 形式検証とシステムソフトウェアの融合により、ゼロトラスト(ZT)の概念を踏襲した安全なIoTシステムを実現します。理論研究では、IoTのトラストチェーンの正当性に数学的証明を与え、動的検証の併用で未知の脅威にも対応します。システムソフト研究では理論的成果と連係して実行隔離・自動検知・自動対処機構を開発し，ZT-IoTを実証します。アカウンタビリティを保証することでIoTの社会受容を促進します。
 
-<div align="center">
-<img src="images/overview-JP_rgb.jpg" width="80%" title="ZT-IoTプロジェクトの研究概要">
-</div>
+
+<img src="images/overview-JP_rgb.jpg" width="100%" title="ZT-IoTプロジェクトの研究概要">
 
 
 <a name="member"> </a>
