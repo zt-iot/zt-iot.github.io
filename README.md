@@ -201,10 +201,21 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 
 <a name="publications"> </a>
 ## 研究業績
-- 2021年度
-  - [Technical Report, w/o peer review] ZT-IoT: ゼロトラストIoTのためのシステムソフトウェア構築に向けて．<br>
+<!--
+### 査読付き論文
+
+### 講演，口頭発表等
+-->
+- [Technical Report] Pub/Sub通信モデルを用いたセキュリティ監視機構の検討. <br>
+石川 裕, Yin Jie, 竹房 あつ子, 松井 俊浩, 小野 泰司, 合田 憲人. <br>
+情報処理学会研究報告, vol. 2022-OS-156, no. 2, pp. 1-6, 2022年7月[Link](http://id.nii.ac.jp/1001/00218868/)
+- [Poster] Society 5.0のためのゼロトラストIoT. NIIオープンハウスポスター. 2022年6月. [PDF](https://drive.google.com/file/d/1NubCDcZBdBOFwC2MvgTIdbCKVqZWvaMF/view?usp=sharing)<br>
+
+- [Technical Report] ZT-IoT: ゼロトラストIoTのためのシステムソフトウェア構築に向けて．<br>
 竹房 あつ子, 五十嵐 淳, 関山 太郎, 松井 俊浩, 小野 泰司, 福田 健介, 蓮尾 一郎, 合田 憲人, 石川 裕，<br>
-情報処理学会研究報告, vol. 2022-OS-154, no. 3, pp. 1-16, 2022年3月.<br>
-  - [Poster] ZT-IoT: ゼロトラストIoTのためのシステムソフトウェアの検討．<br>
+情報処理学会研究報告, vol. 2022-OS-154, no. 3, pp. 1-16, 2022年3月. [Link](http://id.nii.ac.jp/1001/00217217/), [Slide](https://drive.google.com/file/d/1cxKrYkvDgTMrmB6wWGnWV0DMFo_JH-xN/view?usp=sharing)<br>
+- [Poster] ZT-IoT: ゼロトラストIoTのためのシステムソフトウェアの検討．<br>
 竹房 あつ子, 五十嵐 淳, 関山 太郎, 松井 俊浩, 小野 泰司, 福田 健介, 蓮尾 一郎, 合田 憲人, 石川 裕，<br>
 情報処理学会 第154回OS研究発表会, 2022年3月.<br>
+- [Talk] 形式検証とシステムソフトウェアの協働によるゼロトラストIoT. <br>
+竹房あつ子, CREST/さきがけセッション, ComSys 2021, 2021年12月.
