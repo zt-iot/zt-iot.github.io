@@ -121,7 +121,17 @@ We also promote social acceptance of IoT by ensuring the accountability.
 	Graduate School of Informatics, 
 	Kyoto University
     </td>
-  </tr>  
+  </tr>
+
+  <tr>
+    <td>
+    Terunobu Inaba<br>
+    Master's Student,
+	Department of Communications and Computer Engineering, <br>
+	Graduate School of Informatics,
+	Kyoto University
+    </td>
+  </tr>
 </table>
 
 <p>Sekiyama Gr.</p>

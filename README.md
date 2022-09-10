@@ -93,9 +93,9 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 <table>
   <tr>
     <td>
-	<b>主たる研究代表者</b><br>
+	<b>主たる共同研究者</b><br>
 	<a href="https://researchmap.jp/Atsushi.Igarashi?lang=ja"> 五十嵐 淳</a><br>
-	<a href="https://www.i.kyoto-u.ac.jp">京都大学</a> 大学院情報学研究科 教授
+	<a href="https://www.i.kyoto-u.ac.jp">京都大学 大学院情報学研究科</a> 教授
     </td>
   </tr>
 
@@ -111,14 +111,21 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 	<a href="https://researchmap.jp/mwaga?lang=ja">和賀 正樹</a><br>
 	京都大学 大学院情報学研究科 助教
     </td>
-  </tr>  
+  </tr>
+
+  <tr>
+    <td>
+    稲葉皓信 <br/>
+    京都大学 大学院情報学研究科 通信情報システム専攻 大学院生 (修士課程)
+    </td>
+  </tr>
 </table>
 
 <p>NII理論グループ</p>
 <table>
   <tr>
     <td>
-	<b>主たる研究代表者</b><br>
+	<b>主たる共同研究者</b><br>
 	<a href="https://researchmap.jp/t-sekiym?lang=ja">関山 太朗</a><br>
 	<a href="https://www.nii.ac.jp/">国立情報学研究所</a> アーキテクチャ科学研究系 助教
     </td>
@@ -178,7 +185,7 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 <table>
   <tr>
     <td>
-	<b>主たる研究代表者</b><br>
+	<b>主たる共同研究者</b><br>
 	<a href="https://www.iisec.ac.jp/education/professors/matsui.html">松井 俊浩</a><br>
 	<a href="https://www.iisec.ac.jp">情報セキュリティ大学院大学</a> 情報セキュリティ研究科 教授
     </td>
