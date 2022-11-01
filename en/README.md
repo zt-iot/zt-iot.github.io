@@ -4,6 +4,7 @@
 CREST Research Area: [\[Society 5.0 System Software\] Creation of System Software for Society 5.0 by Integrating Fundamental Theories and System Platform Technologies](https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2021-2.html)
 
 ## Topics
+- 2022/11/01 The ZT-IoT project is presented at the [SC22](https://sc22.supercomputing.org/) Exhition Booth #4205 in Dallas. [PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing)
 
 ## Research Outline
 This project aims to realize secure Internet of Things (IoT) systems in accordance with the concept of zero trust by the fusion of formal verification and system software technologies.
@@ -245,4 +246,4 @@ We also promote social acceptance of IoT by ensuring the accountability.
 
 
 ## Publications
-
+- [Exbition] Zero Trust based IoT Security, SC22 Exhition Booth #4205, Nov. 2022． [PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing)
