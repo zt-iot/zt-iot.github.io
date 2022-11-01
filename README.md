@@ -18,6 +18,7 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 
 <a name="topics"> </a>
 ## Topics
+* 2022/11/01 11/14-17に[SC22](https://sc22.supercomputing.org/)の展示会場(Booth# 4205)で本ブロジェクトの展示発表を行います． [PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing) 
 * 2021/09/21 [2021年度 戦略的創造研究推進事業 (CREST)，研究領域「基礎理論とシステム基盤技術の融合によるSociety 5.0のための基盤ソフトウェアの創出 (S5基盤ソフト)」に採択されました．](https://www.jst.go.jp/kisoken/crest/application/2021/210921/210921crest.pdf)
 
 <a name="overview"> </a>
@@ -210,9 +211,10 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 ## 研究業績
 <!--
 ### 査読付き論文
-
+     
 ### 講演，口頭発表等
 -->
+- [Exbition] Zero Trust based IoT Security, SC22 Exhition Booth #4205, 2022年11月．[PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing)
 - [Talk] ゼロトラストIoT (ZT-IoT)に向けたシステムソフトウェアの研究.<br>
 竹房 あつ子, 電子情報通信学会ソサイエティ大会, BI-4-1, 2022年9月. (招待講演) [Link](https://www.ieice-taikai.jp/2022society/jpn/webpro/_html/cs_kikaku.html#bi_4)
 - [Talk] 信頼の基点に基づくIoTデバイスの通信.<br>
