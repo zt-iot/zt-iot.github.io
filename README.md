@@ -215,9 +215,11 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 ### 講演，口頭発表等
 -->
 - [Exbition] Zero Trust based IoT Security, SC22 Exhition Booth #4205, 2022年11月．[PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing)
+- [Paper] Development of a Secure Data Sharing Mechanism for IoT Application Systems.<br>
+Naoya Kitagawa, Atsuko Takefusa and Kento Aida, IEEE International Conference on Cloud Networking (CloudNet), 2022年11月.
 - [Talk] ゼロトラストIoT (ZT-IoT)に向けたシステムソフトウェアの研究.<br>
 竹房 あつ子, 電子情報通信学会ソサイエティ大会, BI-4-1, 2022年9月. (招待講演) [Link](https://www.ieice-taikai.jp/2022society/jpn/webpro/_html/cs_kikaku.html#bi_4)
-- [Talk] 信頼の基点に基づくIoTデバイスの通信.<br>
+- [Talk] 信頼の基点に基づくIoTデバイスの通信.<r>
 松井俊浩, 小野泰司, 電子情報通信学会ソサイエティ大会, BI-4-2, 2022年9月. (招待講演) [Link](https://www.ieice-taikai.jp/2022society/jpn/webpro/_html/cs_kikaku.html#bi_4)
 - [Technical Report] Pub/Sub通信モデルを用いたセキュリティ監視機構の検討. <br>
 石川 裕, Yin Jie, 竹房 あつ子, 松井 俊浩, 小野 泰司, 合田 憲人. <br>
