@@ -219,11 +219,11 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 Naoya Kitagawa, Atsuko Takefusa and Kento Aida, IEEE International Conference on Cloud Networking (CloudNet), 2022年11月.
 - [Talk] ゼロトラストIoT (ZT-IoT)に向けたシステムソフトウェアの研究.<br>
 竹房 あつ子, 電子情報通信学会ソサイエティ大会, BI-4-1, 2022年9月. (招待講演) [Link](https://www.ieice-taikai.jp/2022society/jpn/webpro/_html/cs_kikaku.html#bi_4)
-- [Talk] 信頼の基点に基づくIoTデバイスの通信.<r>
+- [Talk] 信頼の基点に基づくIoTデバイスの通信.<br>
 松井俊浩, 小野泰司, 電子情報通信学会ソサイエティ大会, BI-4-2, 2022年9月. (招待講演) [Link](https://www.ieice-taikai.jp/2022society/jpn/webpro/_html/cs_kikaku.html#bi_4)
 - [Technical Report] Pub/Sub通信モデルを用いたセキュリティ監視機構の検討. <br>
 石川 裕, Yin Jie, 竹房 あつ子, 松井 俊浩, 小野 泰司, 合田 憲人. <br>
-情報処理学会研究報告, vol. 2022-OS-156, no. 2, pp. 1-6, 2022年7月[Link](http://id.nii.ac.jp/1001/00218868/), [Slide](https://drive.google.com/file/d/1Vxm7Yk7b2LSvtr8cyOFtV6g4i7n857Jw/view?usp=sharing)
+情報処理学会研究報告, vol. 2022-OS-156, no. 2, pp. 1-6, 2022年7月. [Link](http://id.nii.ac.jp/1001/00218868/), [Slide](https://drive.google.com/file/d/1Vxm7Yk7b2LSvtr8cyOFtV6g4i7n857Jw/view?usp=sharing)
 - [Poster] Society 5.0のためのゼロトラストIoT. NIIオープンハウスポスター. 2022年6月. [PDF](https://drive.google.com/file/d/1NubCDcZBdBOFwC2MvgTIdbCKVqZWvaMF/view?usp=sharing)
 
 - [Technical Report] ZT-IoT: ゼロトラストIoTのためのシステムソフトウェア構築に向けて．<br>
