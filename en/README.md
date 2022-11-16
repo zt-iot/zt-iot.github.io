@@ -246,6 +246,6 @@ We also promote social acceptance of IoT by ensuring the accountability.
 
 
 ## Publications
-- [Exbition] Zero Trust based IoT Security, SC22 Exhition Booth #4205, Nov. 2022． [PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing)
+- [Exhibition] Zero Trust based IoT Security, SC22 Exhibition Booth #4205, Nov. 2022． [PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing)
 - [Paper] Development of a Secure Data Sharing Mechanism for IoT Application Systems.<br>
 Naoya Kitagawa, Atsuko Takefusa and Kento Aida, IEEE International Conference on Cloud Networking (CloudNet), Nov. 2022.
