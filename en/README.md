@@ -89,6 +89,25 @@ We also promote social acceptance of IoT by ensuring the accountability.
 	National Institute of Informatics
     </td>
   </tr>
+
+ <tr>
+    <td>
+	Jie YIN<br> 
+	Project Researcher, 
+      Information Systems Architecture Sciences Research Division, <br> 
+	National Institute of Informatics
+    </td>
+  </tr>
+	
+ <tr>
+    <td>
+	Aoki Nobuo<br> 
+	Research Assistant, 
+      Information Systems Architecture Sciences Research Division, <br> 
+	National Institute of Informatics
+    </td>
+  </tr>
+
 </table>
 
 <p>Igarashi Gr.</p>
