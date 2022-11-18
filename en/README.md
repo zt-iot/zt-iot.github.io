@@ -75,15 +75,15 @@ We also promote social acceptance of IoT by ensuring the accountability.
 
  <tr>
     <td>
-	<a href="https://researchmap.jp/sakaneeisaku?lang=en">Sakane Eisaku</a><br>
-	Project Associate Professor, 
-	Cyber Science Infrastructure Development Department, <br>
+	<a href="https://researchmap.jp/sakaneeisaku?lang=en">Eisaku Sakane</a><br>
+	Associate Professor, 
+	Information Systems Architecture Sciences Research Division, <br>
 	National Institute of Informatics
     </td>
   </tr>
  <tr>
     <td>
-	<a href="https://researchmap.jp/nishimuratakeshi?lang=en">Nishimura Takeshi</a><br>
+	<a href="https://researchmap.jp/nishimuratakeshi?lang=en">Takeshi Nishimura</a><br>
 	Project Researcher, 
 	Cyber Science Infrastructure Development Department, <br>
 	National Institute of Informatics
@@ -101,7 +101,7 @@ We also promote social acceptance of IoT by ensuring the accountability.
 	
  <tr>
     <td>
-	Aoki Nobuo<br> 
+	Nobuo Aoki<br> 
 	Research Assistant, 
       Information Systems Architecture Sciences Research Division, <br> 
 	National Institute of Informatics
@@ -152,6 +152,28 @@ We also promote social acceptance of IoT by ensuring the accountability.
 	Kyoto University
     </td>
   </tr>
+
+  <tr>
+    <td>
+    Shi Zhen<br>
+    Master's Student,
+	Department of Communications and Computer Engineering, <br>
+	Graduate School of Informatics,
+	Kyoto University
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+    Yuhi Sakaguchi<br>
+    Master's Student,
+	Department of Communications and Computer Engineering, <br>
+	Graduate School of Informatics,
+	Kyoto University
+    </td>
+  </tr>
+
+
 </table>
 
 <p>Sekiyama Gr.</p>
@@ -224,10 +246,29 @@ We also promote social acceptance of IoT by ensuring the accountability.
 
   <tr>
     <td>
-      Kenji Taguchi<br>
+      Kenji Taguchi(by Mar. 2022)<br>
 	Project Researcher, 
 	Information Systems Architecture Sciences Research Division, <br>
       National Institute of Informatics
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      Lelio BRUN<br>
+	Project Researcher, 
+	Information Systems Architecture Sciences Research Division, <br>
+      National Institute of Informatics
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      Hiroya Fujinami<br>
+	Doctoral Student, 
+	Department of Informatics, 
+	School of Multidisciplinary Sciences, <br>
+        The Graduate University For Advanced Studies (SOKENDAI)
     </td>
   </tr>
 </table>
@@ -244,6 +285,16 @@ We also promote social acceptance of IoT by ensuring the accountability.
     </td>
   </tr>
  
+ 
+ <tr>
+    <td>
+	Kuniyasu Suzaki<br>
+	Professor, 
+	Graduate School of Information Security, <br>
+	Institute of Information Security
+    </td>
+  </tr>
+
  <tr>
     <td>
 	Rika Wakatsuki<br>
