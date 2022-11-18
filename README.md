@@ -82,12 +82,27 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 	国立情報学研究所 アーキテクチャ科学研究系 准教授
     </td>
   </tr>
+	
  <tr>
     <td>
 	<a href="https://researchmap.jp/nishimuratakeshi?lang=ja">西村 健</a><br>
 	国立情報学研究所 学術基盤推進部 特任研究員
     </td>
   </tr>
+	
+<tr>
+    <td>
+	<a href="">YIN JIE</a><br>
+	国立情報学研究所 アーキテクチャ科学研究系 特任研究員
+    </td>
+  </tr>	
+	
+<tr>
+    <td>
+	<a href="">青木 信雄</a><br>
+	国立情報学研究所 アーキテクチャ科学研究系 RA
+    </td>
+  </tr>		
 </table>
 
 <p>京大理論グループ</p>
