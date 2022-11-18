@@ -79,7 +79,7 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
  <tr>
     <td>
 	<a href="https://researchmap.jp/sakaneeisaku?lang=ja">坂根 栄作</a><br>
-	国立情報学研究所 学術基盤推進部 特任准教授
+	国立情報学研究所 アーキテクチャ科学研究系 准教授
     </td>
   </tr>
  <tr>
