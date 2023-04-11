@@ -241,8 +241,8 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 
  <tr>
     <td>
-	須崎 有康<br>
-	情報セキュリティ大学院大学 情報セキュリティ研究科 教授
+	<a href="https://www.iisec.ac.jp/education/professors/suzaki.html">須崎 有康</a><br>
+	<a href="https://www.iisec.ac.jp">情報セキュリティ大学院大学</a> 情報セキュリティ研究科 教授
     </td>
   </tr>
 
