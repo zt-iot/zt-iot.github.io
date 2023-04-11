@@ -102,9 +102,10 @@ We also promote social acceptance of IoT by ensuring the accountability.
  <tr>
     <td>
 	Nobuo Aoki<br> 
-	Research Assistant, 
-      Information Systems Architecture Sciences Research Division, <br> 
-	National Institute of Informatics
+	Doctoral Student, 
+	Department of Informatics, 
+	School of Multidisciplinary Sciences, <br>
+	<a href="https://www.nii.ac.jp/graduate/en/">The Graduate University For Advanced Studies (SOKENDAI)</a>
     </td>
   </tr>
 
