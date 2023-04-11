@@ -100,7 +100,7 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
  <tr>
     <td>
 	青木 信雄<br>
-	国立情報学研究所 アーキテクチャ科学研究系 RA
+	<a href="https://www.nii.ac.jp/graduate/index.html">総合研究大学院大学</a> 複合科学研究科情報学専攻 大学院生（博士課程）
     </td>
   </tr>
 </table>
