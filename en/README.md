@@ -279,18 +279,48 @@ We also promote social acceptance of IoT by ensuring the accountability.
   <tr>
     <td>
 	<b>Collaborator</b><br>
-	<a href="https://www.iisec.ac.jp/education/professors/matsui.html">Toshihiro Matsui</a><br>
+	<a href="https://www.tid.ac.jp/contents/professor/toshihiro-matsui/">Toshihiro Matsui</a><br>
+	Professor, 
+	Information Design Division, <br>
+	<a href="https://www.tid.ac.jp/">Tokyo Information Design Professional University</a>
+    </td>
+  </tr>
+
+ <tr>
+    <td>
+	Ono Yasushi<br>
+	Project Research Assistant, 
+	Information Design Division, <br>
+	Institute of Information Security
+    </td>
+  </tr>
+
+ <tr>
+    <td>
+	Rika Wakatsuki<br>
+	Project Research Assistant, 
+	Information Design Division, <br>
+	Institute of Information Security
+    </td>
+  </tr>
+</table>
+
+<p>Suzaki Gr.</p>
+<table>
+  <tr>
+    <td>
+	<b>Collaborator</b><br>
+	<a href="https://www.iisec.ac.jp/education/professors/suzaki.html">Kuniyasu Suzaki</a><br>
 	Professor, 
 	Graduate School of Information Security, <br>
 	<a href="https://www2.iisec.ac.jp/english/">Institute of Information Security</a>
     </td>
   </tr>
- 
- 
+
  <tr>
     <td>
-	Kuniyasu Suzaki<br>
-	Professor, 
+	Ono Yasushi<br>
+	Project Research Assistant, 
 	Graduate School of Information Security, <br>
 	Institute of Information Security
     </td>
@@ -304,17 +334,7 @@ We also promote social acceptance of IoT by ensuring the accountability.
 	Institute of Information Security
     </td>
   </tr>
-
- <tr>
-    <td>
-	Ono Yasushi<br>
-	Project Research Assistant, 
-	Graduate School of Information Security, <br>
-	Institute of Information Security
-    </td>
-  </tr>
 </table>
-
 
 ## Publications
 - [Exhibition] Zero Trust based IoT Security, SC22 Exhibition Booth #4205, Nov. 2022． [PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing)
