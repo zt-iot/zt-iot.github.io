@@ -229,20 +229,38 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 
 </table>
 
-<p>IISECシステムソフトウェアグループ</p>
+<p>TIDシステムソフトウェアグループ</p>
 <table>
   <tr>
     <td>
 	<b>主たる共同研究者</b><br>
-	<a href="https://www.iisec.ac.jp/education/professors/matsui.html">松井 俊浩</a><br>
-	<a href="https://www.iisec.ac.jp">情報セキュリティ大学院大学</a> 情報セキュリティ研究科 教授
+	<a href="https://www.tid.ac.jp/contents/professor/toshihiro-matsui/">松井 俊浩</a><br>
+	<a href="https://www.tid.ac.jp">東京情報デザイン専門職大学</a> 情報デザイン学科 教授
     </td>
   </tr>
 
  <tr>
     <td>
-	須崎 有康<br>
-	情報セキュリティ大学院大学 情報セキュリティ研究科 教授
+	若月 里香<br>
+	東京情報デザイン専門職大学 情報デザイン学科 特任助手
+    </td>
+  </tr>
+
+ <tr>
+    <td>
+	小野 泰司<br>
+	東京情報デザイン専門職大学 情報デザイン学科 特任助手
+    </td>
+  </tr>
+</table>
+
+<p>IISECシステムソフトウェアグループ</p>
+<table>
+  <tr>
+    <td>
+	<b>主たる共同研究者</b><br>
+	<a href="https://www.iisec.ac.jp/education/professors/suzaki.html">須崎　有康</a><br>
+	<a href="https://www.iisec.ac.jp">情報セキュリティ大学院大学</a> 情報セキュリティ研究科 教授
     </td>
   </tr>
 
