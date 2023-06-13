@@ -287,6 +287,11 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
      
 ### 講演，口頭発表等
 -->
+- [Poster] Certification Mechanism to Assure Software Reliability with Digital Signature. 
+Sayako Shimizu, Eisaku Sakane, Takeshi Nishimura, Kento Aida, Atsuko Takefusa
+International Symposium on Grids & Clouds (ISGC) 2023年3月
+
+
 - [Exhibition] Zero Trust based IoT Security, SC22 Exhibition Booth #4205, 2022年11月．[PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing)
 - [Paper] Development of a Secure Data Sharing Mechanism for IoT Application Systems.<br>
 Naoya Kitagawa, Atsuko Takefusa and Kento Aida, IEEE International Conference on Cloud Networking (CloudNet), 2022年11月.
