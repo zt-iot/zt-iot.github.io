@@ -301,7 +301,7 @@ Proceedings of the ACM on Programming Languages (POPL), 7, POPL, pp. 2079-2110, 
 情報処理学会論文誌デジタルプラクティス(TDP), 4, pp. 110-121, 2023年4月.<br>
 
 - [Poster] Certification Mechanism to Assure Software Reliability with Digital Signature. <br>
-Sayako Shimizu, Eisaku Sakane, Takeshi Nishimura, Kento Aida, Atsuko Takefusa<br>
+Sayako Shimizu, Eisaku Sakane, Takeshi Nishimura, Kento Aida, Atsuko Takefusa. <br>
 International Symposium on Grids & Clouds (ISGC) , 2023年3月.<br>
 
 - [Talk]形式検証とシステムソフトウェアの協働によるゼロトラストIoT.<br>
