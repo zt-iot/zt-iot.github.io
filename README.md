@@ -318,7 +318,7 @@ Secure Device Forum 2023, 2023年2月.(招待講演)<br>
 
 - [Talk] (I Can't Get No) Verification.<br>
 Atsushi Igarashi.<br>
-ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications (SPLASH), 2022年12月. [Link](https://dl.acm.org/doi/abs/10.1145/3563768.3570524)(招待講演)<br>
+ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications (SPLASH), 2022年12月.(招待講演) [Link](https://dl.acm.org/doi/abs/10.1145/3563768.3570524)(招待講演)<br>
 
 - [Talk]Pub/Sub 通信を行うコネクテッド自動運転車の周囲で捕捉されるデジタル証拠収集機能の提案.<br>
 松本 悟、松井 俊浩.<br>
