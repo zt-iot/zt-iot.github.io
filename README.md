@@ -294,7 +294,7 @@ Proc. IEEE COMPSAC 2023, to appear, 2023年6月.<br>
 
 - [Paper] Temporal Verification with Answer-Effect Modification: Dependent Temporal Type- and-Effect System with Delimited Continuations. <br>
 Taro Sekiyama, Unno Hiroshi.<br>
-Proceedings of the ACM on Programming Languages (POPL), 7, POPL, pp. 2079-2110, 2023年4月.[Link](https://dl.acm.org/doi/abs/10.1145/3571264)<br>
+Proceedings of the ACM on Programming Languages (POPL), 7, POPL, pp. 2079-2110, 2023年4月. [Link](https://dl.acm.org/doi/abs/10.1145/3571264)<br>
 
 - [Paper]  IoTアプリ構築支援のためのSINETStream Androidライブラリおよびセンサ情報収集アプリの開発.<br>
 竹房 あつ子, 小林 久美子, 北川 直哉, 孫 静涛, 吉田 浩, 合田 憲人.<br>
