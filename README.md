@@ -288,15 +288,15 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 ### 講演，口頭発表等
 -->
 
--[Paper] A Linux Audit and MQTT- based Security Monitoring Framework.<br>
+- [Paper] A Linux Audit and MQTT- based Security Monitoring Framework.<br>
 Jie Yin, Yutaka Ishikawa, Atsuko Takefusa.<br>
 Proc. IEEE COMPSAC 2023, to appear, 2023年6月.<br>
 
--[Paper] Temporal Verification with Answer-Effect Modification: Dependent Temporal Type- and-Effect System with Delimited Continuations. <br>
+- [Paper] Temporal Verification with Answer-Effect Modification: Dependent Temporal Type- and-Effect System with Delimited Continuations. <br>
 Taro Sekiyama, Unno Hiroshi.<br>
 Proceedings of the ACM on Programming Languages (POPL), 7, POPL, pp. 2079-2110, 2023年4月.<br>
 
--[Paper]  IoTアプリ構築支援のためのSINETStream Androidライブラリおよびセンサ情報収集アプリの開発.<br>
+- [Paper]  IoTアプリ構築支援のためのSINETStream Androidライブラリおよびセンサ情報収集アプリの開発.<br>
 竹房 あつ子, 小林 久美子, 北川 直哉, 孫 静涛, 吉田 浩, 合田 憲人.<br>
 情報処理学会論文誌デジタルプラクティス(TDP), 4, pp. 110-121, 2023年4月.<br>
 
@@ -304,11 +304,11 @@ Proceedings of the ACM on Programming Languages (POPL), 7, POPL, pp. 2079-2110, 
 Sayako Shimizu, Eisaku Sakane, Takeshi Nishimura, Kento Aida, Atsuko Takefusa<br>
 International Symposium on Grids & Clouds (ISGC) 2023年3月.<br>
 
--[Talk]形式検証とシステムソフトウェアの協働によるゼロトラストIoT.<br>
+- [Talk]形式検証とシステムソフトウェアの協働によるゼロトラストIoT.<br>
 竹房 あつ子<br>
 情報処理学会第85回全国大会 イベント企画「Society 5.0時代の 安心・安全・信頼を支える基盤ソフトウェア技術の構築」, 2023年3月.<br>
 
--[Talk]パスワード及びログの保存設定に着目したIoTデバイスにおけるファームウェアの安全性調査.<br>
+- [Talk]パスワード及びログの保存設定に着目したIoTデバイスにおけるファームウェアの安全性調査.<br>
 川島 佑介，松井 俊浩<br>
 情報処理学会第100回コンピュータセキュリティ研究会CSEC, 2023年3月.<br>
 
@@ -316,11 +316,11 @@ International Symposium on Grids & Clouds (ISGC) 2023年3月.<br>
 Atsuko Takefusa.<br>
 Secure Device Forum 2023, 2023年2月.(招待講演)<br>
 
--[Talk](I Can't Get No) Verification.<br>
+- [Talk](I Can't Get No) Verification.<br>
 Atsushi Igarashi.<br>
 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications (SPLASH), 2022年12月. (招待講演)<br>
 
--[Talk]Pub/Sub 通信を行うコネクテッド自動運転車の周囲で捕捉されるデジタル証拠収集機能の提案.<br>
+- [Talk]Pub/Sub 通信を行うコネクテッド自動運転車の周囲で捕捉されるデジタル証拠収集機能の提案.<br>
 松本 悟、松井 俊浩.<br>
 コンピュータセキュリティシンポジウムCSS2022, 2022年10月.<br>
 
