@@ -312,7 +312,7 @@ International Symposium on Grids & Clouds (ISGC) 2023年3月.<br>
 川島 佑介，松井 俊浩<br>
 情報処理学会第100回コンピュータセキュリティ研究会CSEC, 2023年3月.<br>
 
--[Talk]Building System Software for Zero Trust IoT (ZT-IoT).
+- [Talk]Building System Software for Zero Trust IoT (ZT-IoT).
 Atsuko Takefusa.<br>
 Secure Device Forum 2023, 2023年2月.(招待講演)<br>
 
@@ -324,7 +324,7 @@ ACM SIGPLAN International Conference on Systems, Programming, Languages, and App
 松本 悟、松井 俊浩.<br>
 コンピュータセキュリティシンポジウムCSS2022, 2022年10月.<br>
 
--[Paper] Development of a Secure Data Sharing Mechanism for IoT Application Systems.<br>
+- [Paper] Development of a Secure Data Sharing Mechanism for IoT Application Systems.<br>
 Naoya Kitagawa, Atsuko Takefusa, Kento Aida.<br>
 Proc. 2022 IEEE 11th International Conference on Cloud Networking (CloudNet), pp. 131-135, 2022年11月.<br>
 
