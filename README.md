@@ -294,7 +294,7 @@ Proc. IEEE COMPSAC 2023, to appear, 2023年6月.<br>
 
 - [Paper] Temporal Verification with Answer-Effect Modification: Dependent Temporal Type- and-Effect System with Delimited Continuations. <br>
 Taro Sekiyama, Unno Hiroshi.<br>
-Proceedings of the ACM on Programming Languages (POPL), 7, POPL, pp. 2079-2110, 2023年4月.<br>
+Proceedings of the ACM on Programming Languages (POPL), 7, POPL, pp. 2079-2110, 2023年4月.[Link](https://dl.acm.org/doi/abs/10.1145/3571264)<br>
 
 - [Paper]  IoTアプリ構築支援のためのSINETStream Androidライブラリおよびセンサ情報収集アプリの開発.<br>
 竹房 あつ子, 小林 久美子, 北川 直哉, 孫 静涛, 吉田 浩, 合田 憲人.<br>
@@ -312,13 +312,13 @@ International Symposium on Grids & Clouds (ISGC) 2023年3月.<br>
 川島 佑介，松井 俊浩<br>
 情報処理学会第100回コンピュータセキュリティ研究会CSEC, 2023年3月.<br>
 
-- [Talk]Building System Software for Zero Trust IoT (ZT-IoT).
+- [Talk]Building System Software for Zero Trust IoT (ZT-IoT).<br>
 Atsuko Takefusa.<br>
 Secure Device Forum 2023, 2023年2月.(招待講演)<br>
 
-- [Talk](I Can't Get No) Verification.<br>
+- [Talk] (I Can't Get No) Verification.<br>
 Atsushi Igarashi.<br>
-ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications (SPLASH), 2022年12月. (招待講演)<br>
+ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications (SPLASH), 2022年12月. [Link](https://dl.acm.org/doi/abs/10.1145/3563768.3570524)(招待講演)<br>
 
 - [Talk]Pub/Sub 通信を行うコネクテッド自動運転車の周囲で捕捉されるデジタル証拠収集機能の提案.<br>
 松本 悟、松井 俊浩.<br>
@@ -326,7 +326,7 @@ ACM SIGPLAN International Conference on Systems, Programming, Languages, and App
 
 - [Paper] Development of a Secure Data Sharing Mechanism for IoT Application Systems.<br>
 Naoya Kitagawa, Atsuko Takefusa, Kento Aida.<br>
-Proc. 2022 IEEE 11th International Conference on Cloud Networking (CloudNet), pp. 131-135, 2022年11月.<br>
+Proc. 2022 IEEE 11th International Conference on Cloud Networking (CloudNet), pp. 131-135, 2022年11月. [Link](https://ieeexplore.ieee.org/document/9978835)<br>
 
 - [Exhibition] Zero Trust based IoT Security, SC22 Exhibition Booth #4205, 2022年11月．[PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing)
 
