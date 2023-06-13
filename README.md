@@ -302,7 +302,7 @@ Proceedings of the ACM on Programming Languages (POPL), 7, POPL, pp. 2079-2110, 
 
 - [Poster] Certification Mechanism to Assure Software Reliability with Digital Signature. <br>
 Sayako Shimizu, Eisaku Sakane, Takeshi Nishimura, Kento Aida, Atsuko Takefusa<br>
-International Symposium on Grids & Clouds (ISGC) 2023年3月.<br>
+International Symposium on Grids & Clouds (ISGC) , 2023年3月.<br>
 
 - [Talk]形式検証とシステムソフトウェアの協働によるゼロトラストIoT.<br>
 竹房 あつ子<br>
@@ -318,7 +318,7 @@ Secure Device Forum 2023, 2023年2月.(招待講演)<br>
 
 - [Talk] (I Can't Get No) Verification.<br>
 Atsushi Igarashi.<br>
-ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications (SPLASH), 2022年12月.(招待講演) [Link](https://dl.acm.org/doi/abs/10.1145/3563768.3570524)(招待講演)<br>
+ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications (SPLASH), 2022年12月.(招待講演) [Link](https://dl.acm.org/doi/abs/10.1145/3563768.3570524)<br>
 
 - [Talk]Pub/Sub 通信を行うコネクテッド自動運転車の周囲で捕捉されるデジタル証拠収集機能の提案.<br>
 松本 悟、松井 俊浩.<br>
@@ -349,7 +349,7 @@ Lecture Notes in Computer Science (Computer Aided Verification), 13371, pp. 447-
 石川 裕, Yin Jie, 竹房 あつ子, 松井 俊浩, 小野 泰司, 合田 憲人. <br>
 情報処理学会研究報告, vol. 2022-OS-156, no. 2, pp. 1-6, 2022年7月. [Link](http://id.nii.ac.jp/1001/00218868/), [Slide](https://drive.google.com/file/d/1Vxm7Yk7b2LSvtr8cyOFtV6g4i7n857Jw/view?usp=sharing)
 
-- [Poster] Society 5.0のためのゼロトラストIoT. NIIオープンハウスポスター. 2022年6月. [PDF](https://drive.google.com/file/d/1NubCDcZBdBOFwC2MvgTIdbCKVqZWvaMF/view?usp=sharing)
+- [Poster] Society 5.0のためのゼロトラストIoT. NIIオープンハウスポスター, 2022年6月. [PDF](https://drive.google.com/file/d/1NubCDcZBdBOFwC2MvgTIdbCKVqZWvaMF/view?usp=sharing)
 
 - [Technical Report] ZT-IoT: ゼロトラストIoTのためのシステムソフトウェア構築に向けて．<br>
 竹房 あつ子, 五十嵐 淳, 関山 太郎, 松井 俊浩, 小野 泰司, 福田 健介, 蓮尾 一郎, 合田 憲人, 石川 裕，<br>
