@@ -289,68 +289,70 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 ### 講演，口頭発表等
 -->
 
+- [Exhibition] Zero Trust based IoT Security, SC23 Exhibition Booth #256, Nov. 2023． [Link](https://ccrd.nii.ac.jp/sc23/)
+- [Talk] 形式検証によるセキュアなIoTシステムの実現に向けて<br>
+関山 太朗. <br>
+コンピュータセキュリティシンポジウムCSS2023 形式検証とセキュリティワークショップ, Nov. 2023.
+- [Talk] ゼロトラストIoTに向けたIoT機器のOTAソフトウェアアップデートフレームワークの検討<br>
+青木 信雄, 竹房 あつ子, 石川 裕, 小野 泰司, 坂根 栄作, 合田 憲人<br>
+コンピュータセキュリティシンポジウムCSS2023論文集 2F3-4, pp. 652-659, Oct. 2023.
+- [Paper] Automated Security Analysis for Real-World IoT Devices.<br>
+Lélio Brun, Ichiro Hasuo, Yasushi Ono and Taro Sekiyama.<br>
+Proc. HASP '23: Hardware and Architectural Support for Security and Privacy, pp 29-37, Oct. 2023. [Link](https://doi.org/10.1145/3623652.3623667)
+- [Talk] Rabbit: a modeling language for verifying data-flow security. <br>
+稲葉 皓信, 関山 太朗, 五十嵐 淳, 石川 裕<br>
+情報処理学会研究報告 PRO, Aug. 2023.
+- [Talk] OP-TEEを用いたIoTにおける安全な階層鍵管理機構の検討.<br>
+竹房 あつ子, 小野 泰司, 石川 裕. <br>
+情報処理学会研究報告 2023-OS-160, No. 11, pp. 1-12, Aug. 2023.
+- [Poster] ゼロトラストIoTに基づくIoT機器のOTAソフトウェア更新実現にむけて.<br>
+青木 信雄, 竹房 あつ子, 石川 裕, 小野 泰司, 坂根 栄作, 合田 憲人.<br>
+cross-disciplinary workshop on computing Systems, Infrastructures, and programminG 2023 (xSIG2023), Aug. 2023.
 - [Paper] A Linux Audit and MQTT- based Security Monitoring Framework.<br>
 Jie Yin, Yutaka Ishikawa, Atsuko Takefusa.<br>
-Proc. IEEE COMPSAC 2023, to appear, 2023年6月.<br>
-
+Proc. IEEE COMPSAC 2023, pp. 648-657, Jun. 2023.
 - [Paper] Temporal Verification with Answer-Effect Modification: Dependent Temporal Type- and-Effect System with Delimited Continuations. <br>
 Taro Sekiyama, Unno Hiroshi.<br>
-Proceedings of the ACM on Programming Languages (POPL), 7, POPL, pp. 2079-2110, 2023年4月. [Link](https://dl.acm.org/doi/abs/10.1145/3571264)<br>
-
+Proceedings of the ACM on Programming Languages (POPL), 7, POPL, pp. 2079-2110, Apr. 2023. [Link](https://dl.acm.org/doi/abs/10.1145/3571264)
+- [Poster] Society 5.0のためのゼロトラストIoT. NIIオープンハウスポスター, 2023年6月.
 - [Paper]  IoTアプリ構築支援のためのSINETStream Androidライブラリおよびセンサ情報収集アプリの開発.<br>
 竹房 あつ子, 小林 久美子, 北川 直哉, 孫 静涛, 吉田 浩, 合田 憲人.<br>
 情報処理学会論文誌デジタルプラクティス(TDP), 4, pp. 110-121, 2023年4月.<br>
 
 - [Poster] Certification Mechanism to Assure Software Reliability with Digital Signature. <br>
 Sayako Shimizu, Eisaku Sakane, Takeshi Nishimura, Kento Aida, Atsuko Takefusa. <br>
-International Symposium on Grids & Clouds (ISGC) , 2023年3月.<br>
-
+International Symposium on Grids & Clouds (ISGC), Mar. 2023.
 - [Talk]形式検証とシステムソフトウェアの協働によるゼロトラストIoT.<br>
 竹房 あつ子<br>
-情報処理学会第85回全国大会 イベント企画「Society 5.0時代の 安心・安全・信頼を支える基盤ソフトウェア技術の構築」, 2023年3月.<br>
-
+情報処理学会第85回全国大会 イベント企画「Society 5.0時代の 安心・安全・信頼を支える基盤ソフトウェア技術の構築」, 2023年3月.
 - [Talk]パスワード及びログの保存設定に着目したIoTデバイスにおけるファームウェアの安全性調査.<br>
 川島 佑介，松井 俊浩<br>
-情報処理学会第100回コンピュータセキュリティ研究会CSEC, 2023年3月.<br>
-
+情報処理学会第100回コンピュータセキュリティ研究会CSEC, 2023年3月.
 - [Talk]Building System Software for Zero Trust IoT (ZT-IoT).<br>
 Atsuko Takefusa.<br>
-Secure Device Forum 2023, 2023年2月.(招待講演)<br>
-
+Secure Device Forum 2023, Feb. 2023.　(招待講演)
 - [Talk] (I Can't Get No) Verification.<br>
 Atsushi Igarashi.<br>
-ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications (SPLASH), 2022年12月.(招待講演) [Link](https://dl.acm.org/doi/abs/10.1145/3563768.3570524)<br>
-
+ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications (SPLASH), Dec. 2022.　(招待講演) [Link](https://dl.acm.org/doi/abs/10.1145/3563768.3570524)
 - [Paper] Development of a Secure Data Sharing Mechanism for IoT Application Systems.<br>
 Naoya Kitagawa, Atsuko Takefusa, Kento Aida.<br>
-Proc. 2022 IEEE 11th International Conference on Cloud Networking (CloudNet), pp. 131-135, 2022年11月. [Link](https://ieeexplore.ieee.org/document/9978835)<br>
-
+Proc. 2022 IEEE 11th International Conference on Cloud Networking (CloudNet), pp. 131-135, Nov. 2022. [Link](https://ieeexplore.ieee.org/document/9978835)
 - [Exhibition] Zero Trust based IoT Security, SC22 Exhibition Booth #4205, 2022年11月．[PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing)
-
-- [Paper] Development of a Secure Data Sharing Mechanism for IoT Application Systems.<br>
-Naoya Kitagawa, Atsuko Takefusa and Kento Aida.<br>
-IEEE International Conference on Cloud Networking (CloudNet), 2022年11月.<br>
-
 - [Talk]Pub/Sub 通信を行うコネクテッド自動運転車の周囲で捕捉されるデジタル証拠収集機能の提案.<br>
 松本 悟、松井 俊浩.<br>
-コンピュータセキュリティシンポジウムCSS2022, 2022年10月.<br>
-
+コンピュータセキュリティシンポジウムCSS2022, 2022年10月.
 - [Talk] ゼロトラストIoT (ZT-IoT)に向けたシステムソフトウェアの研究.<br>
 竹房 あつ子.<br>
 電子情報通信学会ソサイエティ大会, BI-4-1, 2022年9月. (招待講演) [Link](https://www.ieice-taikai.jp/2022society/jpn/webpro/_html/cs_kikaku.html#bi_4)
-
 - [Talk] 信頼の基点に基づくIoTデバイスの通信.<br>
 松井 俊浩, 小野 泰司.<br>
 電子情報通信学会ソサイエティ大会, BI-4-2, 2022年9月. (招待講演) [Link](https://www.ieice-taikai.jp/2022society/jpn/webpro/_html/cs_kikaku.html#bi_4)
-
 - [Paper] Oblivious Online Monitoring for Safety LTL Specification via Fully Homomorphic Encryption.<br>
 Ryotaro Banno, Kotaro Matsuoka, Naoki Matsumoto, Song Bian, Masaki Waga, Kohei Suenaga.<br>
-Lecture Notes in Computer Science (Computer Aided Verification), 13371, pp. 447-468, 2022年8月.[Link](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_22)<br>
-
+Lecture Notes in Computer Science (Computer Aided Verification), 13371, pp. 447-468, Aug. 2022.[Link](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_22)
 - [Technical Report] Pub/Sub通信モデルを用いたセキュリティ監視機構の検討. <br>
 石川 裕, Yin Jie, 竹房 あつ子, 松井 俊浩, 小野 泰司, 合田 憲人. <br>
 情報処理学会研究報告, vol. 2022-OS-156, no. 2, pp. 1-6, 2022年7月. [Link](http://id.nii.ac.jp/1001/00218868/), [Slide](https://drive.google.com/file/d/1Vxm7Yk7b2LSvtr8cyOFtV6g4i7n857Jw/view?usp=sharing)
-
 - [Poster] Society 5.0のためのゼロトラストIoT. NIIオープンハウスポスター, 2022年6月. [PDF](https://drive.google.com/file/d/1NubCDcZBdBOFwC2MvgTIdbCKVqZWvaMF/view?usp=sharing)
 
 - [Technical Report] ZT-IoT: ゼロトラストIoTのためのシステムソフトウェア構築に向けて．<br>
