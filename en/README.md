@@ -4,6 +4,7 @@
 CREST Research Area: [\[Society 5.0 System Software\] Creation of System Software for Society 5.0 by Integrating Fundamental Theories and System Platform Technologies](https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2021-2.html)
 
 ## Topics
+- 2023/11/11 The ZT-IoT project is presented at the [SC23](https://sc23.supercomputing.org/) Exhition Booth #256 in Dallas. [Link](https://ccrd.nii.ac.jp/sc23/)
 - 2022/11/01 The ZT-IoT project is presented at the [SC22](https://sc22.supercomputing.org/) Exhition Booth #4205 in Dallas. [PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing)
 
 ## Research Outline
@@ -337,31 +338,38 @@ We also promote social acceptance of IoT by ensuring the accountability.
 </table>
 
 ## Publications
+
+- [Exhibition] Zero Trust based IoT Security, SC23 Exhibition Booth #256, Nov. 2023． [Link](https://ccrd.nii.ac.jp/sc23/)
+
+- [Paper] Automated Security Analysis for Real-World IoT Devices.<br>
+Lélio Brun, Ichiro Hasuo, Yasushi Ono and Taro Sekiyama.<br>
+Proc. HASP '23: Hardware and Architectural Support for Security and Privacy, pp 29-37, Oct. 2023. [Link](https://doi.org/10.1145/3623652.3623667)
+
 - [Paper] A Linux Audit and MQTT- based Security Monitoring Framework.<br>
 Jie Yin, Yutaka Ishikawa, Atsuko Takefusa, 
-Proc. IEEE COMPSAC 2023, to appear, Jun.2023.<br>
+Proc. IEEE COMPSAC 2023, pp. 648-657, Jun. 2023.
 
 - [Paper] Temporal Verification with Answer-Effect Modification: Dependent Temporal Type- and-Effect System with Delimited Continuations. <br>
 Taro Sekiyama, Unno Hiroshi, 
-Proceedings of the ACM on Programming Languages (POPL), 7, POPL, pp. 2079-2110, Apr. 2023. [Link](https://dl.acm.org/doi/abs/10.1145/3571264)<br>
+Proceedings of the ACM on Programming Languages (POPL), 7, POPL, pp. 2079-2110, Apr. 2023. [Link](https://dl.acm.org/doi/abs/10.1145/3571264)
 
 - [Poster] Certification Mechanism to Assure Software Reliability with Digital Signature. <br>
 Sayako Shimizu, Eisaku Sakane, Takeshi Nishimura, Kento Aida, Atsuko Takefusa, 
-International Symposium on Grids & Clouds (ISGC) , Mar. 2023.<br>
+International Symposium on Grids & Clouds (ISGC) , Mar. 2023.
 
 - [Talk]Building System Software for Zero Trust IoT (ZT-IoT).<br>
 Atsuko Takefusa, 
-Secure Device Forum 2023, Feb. 2023 (Keynote)<br>
+Secure Device Forum 2023, Feb. 2023 (Keynote)
 
 - [Talk] (I Can't Get No) Verification.<br>
 Atsushi Igarashi, 
-ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications (SPLASH), Dec. 2022 (Keynote) [Link](https://dl.acm.org/doi/abs/10.1145/3563768.3570524)<br>
+ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications (SPLASH), Dec. 2022 (Keynote) [Link](https://dl.acm.org/doi/abs/10.1145/3563768.3570524)
 
-- [Exhibition] Zero Trust based IoT Security, SC22 Exhibition Booth #4205, Nov. 2022． [PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing)<br>
+- [Exhibition] Zero Trust based IoT Security, SC22 Exhibition Booth #4205, Nov. 2022． [PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing)
 
 - [Paper] Development of a Secure Data Sharing Mechanism for IoT Application Systems.<br>
-Naoya Kitagawa, Atsuko Takefusa and Kento Aida, IEEE International Conference on Cloud Networking (CloudNet), Nov. 2022. [Link](https://ieeexplore.ieee.org/document/9978835)<br>
+Naoya Kitagawa, Atsuko Takefusa and Kento Aida, IEEE International Conference on Cloud Networking (CloudNet), Nov. 2022. [Link](https://ieeexplore.ieee.org/document/9978835)
 
 - [Paper] Oblivious Online Monitoring for Safety LTL Specification via Fully Homomorphic Encryption.<br>
 Ryotaro Banno, Kotaro Matsuoka, Naoki Matsumoto, Song Bian, Masaki Waga, Kohei Suenaga, 
-Lecture Notes in Computer Science (Computer Aided Verification), 13371, pp. 447-468, Aug.2022.[Link](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_22)<br>
+Lecture Notes in Computer Science (Computer Aided Verification), 13371, pp. 447-468, Aug.2022.[Link](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_22)
