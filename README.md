@@ -91,7 +91,14 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 	国立情報学研究所 学術基盤推進部 特任研究員
     </td>
   </tr>
-	
+
+ <tr>
+    <td>
+	<a href="https://researchmap.jp/ttanjo?lang=ja">丹生 智也</a><br>
+	国立情報学研究所 クラウド基盤研究開発センター 特任研究員
+    </td>
+ </tr>
+
  <tr>
     <td>
 	YIN, Jie<br>
