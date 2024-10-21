@@ -35,29 +35,29 @@ We also promote social acceptance of IoT by ensuring the accountability.
   [National Institute of Informatics](https://www.nii.ac.jp/en/)
 - [Yutaka Ishikawa](https://researchmap.jp/yutaka_ishikawa?lang=en), Professor, 
   Information Systems Architecture Sciences Research Division, 
-	National Institute of Informatics
+  National Institute of Informatics
 - [Kento Aida](https://researchmap.jp/aida?lang=en), Professor, 
   Information Systems Architecture Sciences Research Division, 
-	National Institute of Informatics
+  National Institute of Informatics
 - [Sayako Shimizu](https://researchmap.jp/smzs?lang=en), Assistant Professor, 
   Information Systems Architecture Sciences Research Division, 
-	National Institute of Informatics
+  National Institute of Informatics
 - [Naoya Kitagawa](https://researchmap.jp/7000026496?lang=en), Project Associate Professor, 
   Research and Development Center for Academic Networks, 
-	National Institute of Informatics
+  National Institute of Informatics
 - [Kumiko Kobayashi](https://researchmap.jp/kobayashikumiko?lang=en), Project Researcher, 
   Center for Cloud Research and Development, National Institute of Informatics
 - [Eisaku Sakane](https://researchmap.jp/sakaneeisaku?lang=en), Associate Professor, 
   Information Systems Architecture Sciences Research Division, 
-	National Institute of Informatics
+  National Institute of Informatics
 - [Takeshi Nishimura](https://researchmap.jp/nishimuratakeshi?lang=en), Project Researcher, 
   Cyber Science Infrastructure Development Department, National Institute of Informatics
 - Jie YIN, Project Researcher, 
   Information Systems Architecture Sciences Research Division,
   National Institute of Informatics
 - Nobuo Aoki, Doctoral Student, 
-	Department of Informatics, School of Multidisciplinary Sciences, 
-	[The Graduate University For Advanced Studies (SOKENDAI)](https://www.nii.ac.jp/graduate/en/)
+  Informatics Program, Department of Advanced Studies, Graduate Institute for Advanced Studies, 
+  [The Graduate University For Advanced Studies (SOKENDAI)](https://www.soken.ac.jp/en/)
 
 ### Igarashi Gr.
 - [Atsushi Igarashi](https://researchmap.jp/Atsushi.Igarashi?lang=en) (Collaborator), Professor, 
