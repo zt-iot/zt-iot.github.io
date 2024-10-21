@@ -44,7 +44,7 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 - [西村 健](https://researchmap.jp/nishimuratakeshi), 国立情報学研究所 学術基盤推進部 特任研究員
 - [丹生 智也](https://researchmap.jp/ttanjo), 国立情報学研究所 クラウド基盤研究開発センター 特任研究員
 - YIN, Jie, 国立情報学研究所 アーキテクチャ科学研究系 特任研究員
-- 青木 信雄, [総合研究大学院大学](https://www.nii.ac.jp/graduate/index.html) 大学院生（博士課程）
+- 青木 信雄, [総合研究大学院大学](https://www.nii.ac.jp/graduate/index.html) 先端学術院 先端学術選考 情報学コース 大学院生（博士課程）
 
 ### 京大理論グループ
 - [五十嵐 淳](https://researchmap.jp/Atsushi.Igarashi) (主たる共同研究者), [京都大学](https://www.i.kyoto-u.ac.jp) 大学院情報学研究科 教授
