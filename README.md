@@ -82,7 +82,6 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 
 ### 雑誌論文, 査読付き会議
 
-https://doi.org/
 #### 2024年度
 - 小林 久美子, 竹房 あつ子, 北川 直哉, 大島 浩太, 竹島 雅之, 平田 真樹, 森松 文毅, 吉田 浩, 合田 憲人, IoT アプリケーションシステムのための SINETStream 多種センサデータ可視化・監視機能の開発, 学術情報処理研究 (JACN) (to appear).
 - Terunobu Inaba, Yutaka Ishikawa, Atsushi Igarashi, Taro Sekiyama, Rabbit: A Language to Model and Verify Data Flow in Networked Systems, Proc. the 11th International Symposium on Networks, Computers and Communications (ISNCC'24) (to appear).
