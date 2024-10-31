@@ -44,15 +44,18 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 - [西村 健](https://researchmap.jp/nishimuratakeshi), 国立情報学研究所 学術基盤推進部 特任研究員
 - [丹生 智也](https://researchmap.jp/ttanjo), 国立情報学研究所 クラウド基盤研究開発センター 特任研究員
 - YIN, Jie, 国立情報学研究所 アーキテクチャ科学研究系 特任研究員
-- 青木 信雄, [総合研究大学院大学](https://www.soken.ac.jp/) 先端学術院 先端学術選考 情報学コース 大学院生（博士課程）
+- 青木 信雄, [総合研究大学院大学](https://www.soken.ac.jp/) 先端学術院 先端学術専攻 情報学コース 大学院生（博士課程）
 
 ### 京大理論グループ
 - [五十嵐 淳](https://researchmap.jp/Atsushi.Igarashi) (主たる共同研究者), [京都大学](https://www.i.kyoto-u.ac.jp) 大学院情報学研究科 教授
 - [末永 幸平](https://researchmap.jp/ksuenaga), 京都大学 大学院情報学研究科 准教授
 - [和賀 正樹](https://researchmap.jp/mwaga), 京都大学 大学院情報学研究科 助教
-- 稲葉 皓信, 京都大学 大学院情報学研究科 通信情報システム専攻 大学院生 (修士課程)
-- SHI, Zhen, 京都大学 大学院情報学研究科 通信情報システム専攻 大学院生 (修士課程)
-- 阪口 裕飛, 京都大学 大学院情報学研究科 通信情報システム専攻 大学院生 (修士課程)
+- [PARK, Sewon](https://researchmap.jp/sewonpark), 京都大学 大学院情報学研究科 特定研究員
+- 神 拓己，京都大学 大学院情報学研究科 情報学専攻 大学院生 (修士課程)
+- [西田 雄気](https://researchmap.jp/yuki-nishida)，京都大学 大学院情報学研究科 特定研究員 (〜2023年4月)
+- 稲葉 皓信, 京都大学 大学院情報学研究科 通信情報システム専攻 大学院生 (修士課程) (〜2023年10月)
+- SHI, Zhen, 京都大学 大学院情報学研究科 通信情報システム専攻 大学院生 (修士課程) (〜2023年3月)
+- 阪口 裕飛, 京都大学 大学院情報学研究科 通信情報システム専攻 大学院生 (修士課程) (〜2023年3月))
 
 ### NII理論グループ
 - [関山 太朗](https://researchmap.jp/t-sekiym) (主たる共同研究者), [国立情報学研究所](https://www.nii.ac.jp/) アーキテクチャ科学研究系 准教授
@@ -84,7 +87,7 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 
 #### 2024年度
 - 小林 久美子, 竹房 あつ子, 北川 直哉, 大島 浩太, 竹島 雅之, 平田 真樹, 森松 文毅, 吉田 浩, 合田 憲人, IoT アプリケーションシステムのための SINETStream 多種センサデータ可視化・監視機能の開発, 学術情報処理研究 (JACN) (to appear).
-- Terunobu Inaba, Yutaka Ishikawa, Atsushi Igarashi, Taro Sekiyama, Rabbit: A Language to Model and Verify Data Flow in Networked Systems, Proc. the 11th International Symposium on Networks, Computers and Communications (ISNCC'24) (to appear).
+- Terunobu Inaba, Yutaka Ishikawa, Atsushi Igarashi, Taro Sekiyama, Rabbit: A Language to Model and Verify Data Flow in Networked Systems, Proc. the 11th International Symposium on Networks, Computers and Communications (ISNCC'24).
 - Masaki Waga, Kotaro Matsuoka, Takashi Suwa, Naoki Matsumoto, Ryotaro Banno, Song Bian, Kohei Suenaga Oblivious Monitoring for Discrete-Time STL via Fully Homomorphic Encryption, Proc. The 24th International Conference on Runtime Verification (RV 2024).
 - Taro Sekiyama, Hiroshi Unno, Higher-Order Model Checking of Effect-Handling Programs with Answer-Type Modification, Proc. the ACM on Programming Languages (PACMPL).
 

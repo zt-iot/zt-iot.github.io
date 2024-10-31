@@ -20,8 +20,8 @@ CREST Research Area: [\[Society 5.0 System Software\] Creation of System Softwar
 <a name="overview"> </a>
 ## Research Outline
 This project aims to realize secure Internet of Things (IoT) systems in accordance with the concept of zero trust by the fusion of formal verification and system software technologies.
-In the formal verification research, we provide mathematical proofs for the legitimacy of IoT trust chains and address unknown threats combining static and dynamic verification. 
-In the system software research, we develop mechanisms for isolated execution, automatic detection, and automatic countermeasure in conjunction with the theoretical results in order to demonstrate zero trust IoT. 
+In the formal verification research, we provide mathematical proofs for the legitimacy of IoT trust chains and address unknown threats combining static and dynamic verification.
+In the system software research, we develop mechanisms for isolated execution, automatic detection, and automatic countermeasure in conjunction with the theoretical results in order to demonstrate zero trust IoT.
 We also promote social acceptance of IoT by ensuring the accountability.
 
 ![Overview of the ZT-IoT project.](../images/overview-EN_rgb202406_4x.jpg)
@@ -31,100 +31,109 @@ We also promote social acceptance of IoT by ensuring the accountability.
 ## Members
 ### Takefusa Gr.
 - [Atsuko Takefusa](https://researchmap.jp/takefusa?lang=en) (Research Director), Professor,
-  Information Systems Architecture Sciences Research Division, 
+  Information Systems Architecture Sciences Research Division,
   [National Institute of Informatics](https://www.nii.ac.jp/en/)
-- [Yutaka Ishikawa](https://researchmap.jp/yutaka_ishikawa?lang=en), Professor, 
-  Information Systems Architecture Sciences Research Division, 
-  National Institute of Informatics
-- [Kento Aida](https://researchmap.jp/aida?lang=en), Professor, 
-  Information Systems Architecture Sciences Research Division, 
-  National Institute of Informatics
-- [Sayako Shimizu](https://researchmap.jp/smzs?lang=en), Assistant Professor, 
-  Information Systems Architecture Sciences Research Division, 
-  National Institute of Informatics
-- [Naoya Kitagawa](https://researchmap.jp/7000026496?lang=en), Project Associate Professor, 
-  Research and Development Center for Academic Networks, 
-  National Institute of Informatics
-- [Kumiko Kobayashi](https://researchmap.jp/kobayashikumiko?lang=en), Project Researcher, 
-  Center for Cloud Research and Development, National Institute of Informatics
-- [Eisaku Sakane](https://researchmap.jp/sakaneeisaku?lang=en), Associate Professor, 
-  Information Systems Architecture Sciences Research Division, 
-  National Institute of Informatics
-- [Takeshi Nishimura](https://researchmap.jp/nishimuratakeshi?lang=en), Project Researcher, 
-  Cyber Science Infrastructure Development Department, National Institute of Informatics
-- Jie YIN, Project Researcher, 
+- [Yutaka Ishikawa](https://researchmap.jp/yutaka_ishikawa?lang=en), Professor,
   Information Systems Architecture Sciences Research Division,
   National Institute of Informatics
-- Nobuo Aoki, Doctoral Student, 
-  Informatics Program, Department of Advanced Studies, Graduate Institute for Advanced Studies, 
+- [Kento Aida](https://researchmap.jp/aida?lang=en), Professor,
+  Information Systems Architecture Sciences Research Division,
+  National Institute of Informatics
+- [Sayako Shimizu](https://researchmap.jp/smzs?lang=en), Assistant Professor,
+  Information Systems Architecture Sciences Research Division,
+  National Institute of Informatics
+- [Naoya Kitagawa](https://researchmap.jp/7000026496?lang=en), Project Associate Professor,
+  Research and Development Center for Academic Networks,
+  National Institute of Informatics
+- [Kumiko Kobayashi](https://researchmap.jp/kobayashikumiko?lang=en), Project Researcher,
+  Center for Cloud Research and Development, National Institute of Informatics
+- [Eisaku Sakane](https://researchmap.jp/sakaneeisaku?lang=en), Associate Professor,
+  Information Systems Architecture Sciences Research Division,
+  National Institute of Informatics
+- [Takeshi Nishimura](https://researchmap.jp/nishimuratakeshi?lang=en), Project Researcher,
+  Cyber Science Infrastructure Development Department, National Institute of Informatics
+- Jie YIN, Project Researcher,
+  Information Systems Architecture Sciences Research Division,
+  National Institute of Informatics
+- Nobuo Aoki, Doctoral Student,
+  Informatics Program, Department of Advanced Studies, Graduate Institute for Advanced Studies,
   [The Graduate University For Advanced Studies (SOKENDAI)](https://www.soken.ac.jp/en/)
 
 ### Igarashi Gr.
-- [Atsushi Igarashi](https://researchmap.jp/Atsushi.Igarashi?lang=en) (Collaborator), Professor, 
-	Department of Communications and Computer Engineering, 
+- [Atsushi Igarashi](https://researchmap.jp/Atsushi.Igarashi?lang=en) (Collaborator), Professor,
+	Department of Informatics,
 	Graduate School of Informatics, [Kyoto University](https://www.i.kyoto-u.ac.jp)
-- [Kohei Suenaga](https://researchmap.jp/ksuenaga?lang=en), Assoc. Professor, 
-	Department of Communications and Computer Engineering, 
+- [Kohei Suenaga](https://researchmap.jp/ksuenaga?lang=en), Assoc. Professor,
+	Department of Informatics,
 	Graduate School of Informatics, Kyoto University
-- [Masaki Waga](https://researchmap.jp/mwaga?lang=en), Assistant Professor, 
-	Department of Communications and Computer Engineering, 
+- [Masaki Waga](https://researchmap.jp/mwaga?lang=en), Assistant Professor,
+	Department of Informatics,
 	Graduate School of Informatics, Kyoto University
-- Terunobu Inaba, Master's Student, 
-	Department of Communications and Computer Engineering, 
+- [Sewon Park](https://researchmap.jp/sewonpark), Program-Specific Researcher,
+    Department of Informatics,
 	Graduate School of Informatics, Kyoto University
+- Jin Takumi, Master's Student,
+	Department of Informatics,
+	Graduate School of Informatics, Kyoto University
+- [Nishida Yuki](https://researchmap.jp/yuki-nishida)，Program-Specific Researcher,
+    Department of Informatics,
+	Graduate School of Informatics, Kyoto University (to Apr., 2024)
+- Terunobu Inaba, Master's Student,
+	Department of Communications and Computer Engineering,
+	Graduate School of Informatics, Kyoto University (to Oct., 2024)
 - Shi Zhen, Master's Student,
-	Department of Communications and Computer Engineering, 
-	Graduate School of Informatics, Kyoto University
+	Department of Communications and Computer Engineering,
+	Graduate School of Informatics, Kyoto University (to Mar., 2024)
 - Yuhi Sakaguchi, Master's Student,
-	Department of Communications and Computer Engineering, 
-	Graduate School of Informatics, Kyoto University
+	Department of Communications and Computer Engineering,
+	Graduate School of Informatics, Kyoto University (to Mar., 2024)
 
 ### Sekiyama Gr.
-- [Taro Sekiyama](https://researchmap.jp/t-sekiym?lang=en) (Collaborator), Assoc. Professor, 
-	Information Systems Architecture Sciences Research Division, 
+- [Taro Sekiyama](https://researchmap.jp/t-sekiym?lang=en) (Collaborator), Assoc. Professor,
+	Information Systems Architecture Sciences Research Division,
 	[National Institute of Informatics](https://www.nii.ac.jp/en/)
-- [Fuyuki Ishikawa](https://researchmap.jp/f-ishikawa?lang=en), Associate Professor, 
-	Information Systems Architecture Sciences Research Division, 
+- [Fuyuki Ishikawa](https://researchmap.jp/f-ishikawa?lang=en), Associate Professor,
+	Information Systems Architecture Sciences Research Division,
   National Institute of Informatics
-- [Shin-ya Katsumata](https://researchmap.jp/shinya_katsumata?lang=en), Project Associate Professor, 
-	Information Systems Architecture Sciences Research Division, 
+- [Shin-ya Katsumata](https://researchmap.jp/shinya_katsumata?lang=en), Project Associate Professor,
+	Information Systems Architecture Sciences Research Division,
   National Institute of Informatics
-- [Ichiro Hasuo](https://researchmap.jp/read0136635?lang=en), Professor, 
-	Information Systems Architecture Sciences Research Division, 
+- [Ichiro Hasuo](https://researchmap.jp/read0136635?lang=en), Professor,
+	Information Systems Architecture Sciences Research Division,
   National Institute of Informatics
-- [Kensuke Fukuda](https://researchmap.jp/kensuke/), Professor, 
-	Information Systems Architecture Sciences Research Division, 
+- [Kensuke Fukuda](https://researchmap.jp/kensuke/), Professor,
+	Information Systems Architecture Sciences Research Division,
   National Institute of Informatics
-- Nakabayashi Misato, Doctoral Student, 
-	Department of Informatics, School of Multidisciplinary Sciences, 
+- Nakabayashi Misato, Doctoral Student,
+	Department of Informatics, School of Multidisciplinary Sciences,
   [The Graduate University For Advanced Studies (SOKENDAI)](https://www.nii.ac.jp/graduate/en/)
-- Ryusei Siiba, Doctoral Student, 
-	Department of Informatics, School of Multidisciplinary Sciences, 
+- Ryusei Siiba, Doctoral Student,
+	Department of Informatics, School of Multidisciplinary Sciences,
   The Graduate University For Advanced Studies (SOKENDAI)
-- Kenji Taguchi(by Mar. 2022), Project Researcher, 
-	Information Systems Architecture Sciences Research Division, 
+- Kenji Taguchi(by Mar. 2022), Project Researcher,
+	Information Systems Architecture Sciences Research Division,
   National Institute of Informatics
-- Lelio Brun, Project Researcher, 
-	Information Systems Architecture Sciences Research Division, 
+- Lelio Brun, Project Researcher,
+	Information Systems Architecture Sciences Research Division,
   National Institute of Informatics
-- Hiroya Fujinami, Doctoral Student, 
-	Department of Informatics, School of Multidisciplinary Sciences, 
+- Hiroya Fujinami, Doctoral Student,
+	Department of Informatics, School of Multidisciplinary Sciences,
   The Graduate University For Advanced Studies (SOKENDAI)
 
 ### Matsui Gr.
-- [Toshihiro Matsui](https://www.tid.ac.jp/contents/professor/toshihiro-matsui/) (Collaborator), Professor, 
+- [Toshihiro Matsui](https://www.tid.ac.jp/contents/professor/toshihiro-matsui/) (Collaborator), Professor,
 	Information Design Division, [Tokyo Information Design Professional University](https://www.tid.ac.jp/)
-- Ono Yasushi, Project Research Assistant, 
+- Ono Yasushi, Project Research Assistant,
 	Information Design Division, Tokyo Information Design Professional University
-- Rika Wakatsuki, Project Research Assistant, 
+- Rika Wakatsuki, Project Research Assistant,
 	Information Design Division, Tokyo Information Design Professional University
 
 ### Suzaki Gr.
-- [Kuniyasu Suzaki](https://www.iisec.ac.jp/education/professors/suzaki.html) (Collaborator), Professor, 
+- [Kuniyasu Suzaki](https://www.iisec.ac.jp/education/professors/suzaki.html) (Collaborator), Professor,
 	Graduate School of Information Security, [Institute of Information Security](https://www2.iisec.ac.jp/english/)
-- Ono Yasushi, Project Research Assistant, 
+- Ono Yasushi, Project Research Assistant,
 	Graduate School of Information Security, Institute of Information Security
-- Rika Wakatsuki, Project Research Assistant, 
+- Rika Wakatsuki, Project Research Assistant,
 	Graduate School of Information Security, Institute of Information Security
 
 
@@ -132,7 +141,7 @@ We also promote social acceptance of IoT by ensuring the accountability.
 ## Publications
 
 ### FY 2024
-- [Paper] Terunobu Inaba, Yutaka Ishikawa, Atsushi Igarashi, Taro Sekiyama, Rabbit: A Language to Model and Verify Data Flow in Networked Systems, Proc. the 11th International Symposium on Networks, Computers and Communications (ISNCC'24) (to appear).
+- [Paper] Terunobu Inaba, Yutaka Ishikawa, Atsushi Igarashi, Taro Sekiyama, Rabbit: A Language to Model and Verify Data Flow in Networked Systems, Proc. the 11th International Symposium on Networks, Computers and Communications (ISNCC'24).
 - [Paper] Masaki Waga, Kotaro Matsuoka, Takashi Suwa, Naoki Matsumoto, Ryotaro Banno, Song Bian, Kohei Suenaga Oblivious Monitoring for Discrete-Time STL via Fully Homomorphic Encryption, Proc. The 24th International Conference on Runtime Verification (RV 2024).
 - [Paper] Taro Sekiyama, Hiroshi Unno, Higher-Order Model Checking of Effect-Handling Programs with Answer-Type Modification, Proc. the ACM on Programming Languages (PACMPL).
 
@@ -160,7 +169,7 @@ Programming Languages, pp. 115-147, Jan. 2024. [doi 10.1145/3633280](https://doi
 - [Paper] Taro Sekiyama, Unno Hiroshi, Temporal Verification with Answer-Effect Modification: Dependent Temporal Type- and-Effect System with Delimited Continuations, Proceedings of the ACM on Programming Languages (POPL), 7, POPL, pp. 2079-2110, Apr. 2023. [doi: 10.1145/3571264](https://doi.org/10.1145/3571264)
 
 ### FY 2022
-- [Poster] Sayako Shimizu, Eisaku Sakane, Takeshi Nishimura, Kento Aida, Atsuko Takefusa, 
+- [Poster] Sayako Shimizu, Eisaku Sakane, Takeshi Nishimura, Kento Aida, Atsuko Takefusa,
 Certification Mechanism to Assure Software Reliability with Digital Signature,
 International Symposium on Grids & Clouds (ISGC), Mar. 2023.
 - [Talk] Atsuko Takefusa, Building System Software for Zero Trust IoT (ZT-IoT). Secure Device Forum 2023, Feb. 2023 (Keynote)
@@ -169,4 +178,3 @@ ACM SIGPLAN International Conference on Systems, Programming, Languages, and App
 - [Exhibition] Zero Trust based IoT Security, SC22 Exhibition Booth #4205, Nov. 2022． [PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing)
 - Naoya Kitagawa, Atsuko Takefusa, Kento Aida, Development of a Secure Data Sharing Mechanism for IoT Application Systems, Proc. 2022 IEEE 11th International Conference on Cloud Networking (CloudNet), pp. 131-135, Nov. 2022. [doi: 10.1109/CloudNet55617.2022.9978835](https://doi.org/10.1109/CloudNet55617.2022.9978835)
 - Ryotaro Banno, Kotaro Matsuoka, Naoki Matsumoto, Song Bian, Masaki Waga, Kohei Suenaga, Oblivious Online Monitoring for Safety LTL Specification via Fully Homomorphic Encryption, Lecture Notes in Computer Science (Computer Aided Verification), 13371, pp. 447-468, Aug. 2022. [Link](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_22)
-
