@@ -157,7 +157,7 @@ We also promote social acceptance of IoT by ensuring the accountability.
 - [Poster] Atsuko Takefusa, Yutaka Ishikawa, Yasushi Ono, Design of Trust Chained IoT Key Management using OP-TEE, USENIX OSDI '24, Poster, Jul. 2024.
 
 ### FY 2023
-- [Talk] Atsuko Takefusa, System Software Studies towards Zero Trust IoT (ZT-IoT), Cloud-edge Fusion (CEF) Symposium, CENTRA 7, Feb. 2024.
+- [Invited Talk] Atsuko Takefusa, System Software Studies towards Zero Trust IoT (ZT-IoT), Cloud-edge Fusion (CEF) Symposium, CENTRA 7, Feb. 2024.
 - [Paper] Taichi Takemura, Ryo Yamamoto, Kuniyasu Suzaki, TEE-PA: TEE Is a Cornerstone for Remote Provenance Auditing on Edge Devices With Semi-TCB, IEEE ACCESS, vol. 12, pp. 26536-26549, Feb. 2024. [doi: 10.1109/ACCESS.2024.3366344](https://doi.org/10.1109/ACCESS.2024.3366344)
 - [Paper] Uyen Do, Laura Lahesoo, Rodrigo Matos Carnier, Kensuke Fukuda, Evaluation of XAI Algorithms in IoT Traffic Anomaly Detection, Proc. the 6th International Conference on Artificial Intelligence in Information and Communication, pp. 669-674, Feb. 2024. [doi: 10.1109/ICAIIC60209.2024.10463357](https://doi.org/10.1109/ICAIIC60209.2024.10463357)
 - [Paper] Fuga Kawamata, Hiroshi Unno, Taro Sekiyama, Tachio Terauchi, Answer Refinement Modification: Refinement Type System for Algebraic Effects and Handlers, Proc. the ACM on
@@ -165,6 +165,7 @@ Programming Languages, pp. 115-147, Jan. 2024. [doi 10.1145/3633280](https://doi
 - [Paper] Laura Lahesoo, Uyen Do, Rodrigo Carnier, Kensuke Fukuda, SIURU: A Framework for Machine Learning Based Anomaly Detection in IoT Network Traffic, Proc. the 18th Asian Internet Engineering Conference, pp. 87-95, Dec. 2023. [doi: 10.1145/3630590.3630601](https://doi.org/10.1145/3630590.3630601)
 - [Exhibition] Zero Trust based IoT Security, SC23 Exhibition Booth #256, Nov. 2023． [Link](https://ccrd.nii.ac.jp/sc23/)
 - [Paper] Lélio Brun, Ichiro Hasuo, Yasushi Ono and Taro Sekiyama, Automated Security Analysis for Real-World IoT Devices. Proc. HASP '23: Hardware and Architectural Support for Security and Privacy, pp 29-37, Oct. 2023. [doi: 10.1145/3623652.3623667)](https://doi.org/10.1145/3623652.3623667)
+- [Invited Talk] Taro Sekiyama, Answer-Refinement Modification: A refinement type system for algebraic effect handlers, Shonan Meeting No.203 (Effect Handlers and General-Purpose Languages), Aug. 2023.
 - [Paper] Jie Yin, Yutaka Ishikawa, Atsuko Takefusa, A Linux Audit and MQTT- based Security Monitoring Framework, Proc. IEEE COMPSAC 2023, pp. 648-657, Jun. 2023.
 - [Paper] Taro Sekiyama, Unno Hiroshi, Temporal Verification with Answer-Effect Modification: Dependent Temporal Type- and-Effect System with Delimited Continuations, Proceedings of the ACM on Programming Languages (POPL), 7, POPL, pp. 2079-2110, Apr. 2023. [doi: 10.1145/3571264](https://doi.org/10.1145/3571264)
 
@@ -172,9 +173,9 @@ Programming Languages, pp. 115-147, Jan. 2024. [doi 10.1145/3633280](https://doi
 - [Poster] Sayako Shimizu, Eisaku Sakane, Takeshi Nishimura, Kento Aida, Atsuko Takefusa,
 Certification Mechanism to Assure Software Reliability with Digital Signature,
 International Symposium on Grids & Clouds (ISGC), Mar. 2023.
-- [Talk] Atsuko Takefusa, Building System Software for Zero Trust IoT (ZT-IoT). Secure Device Forum 2023, Feb. 2023 (Keynote)
-- [Talk] Atsushi Igarashi, (I Can't Get No) Verification,
+- [Invited Talk] Atsuko Takefusa, Building System Software for Zero Trust IoT (ZT-IoT). Secure Device Forum 2023, Feb. 2023 (Keynote)
+- [Invited Talk] Atsushi Igarashi, (I Can't Get No) Verification,
 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications (SPLASH), Dec. 2022. (Keynote) [Link](https://dl.acm.org/doi/abs/10.1145/3563768.3570524)
 - [Exhibition] Zero Trust based IoT Security, SC22 Exhibition Booth #4205, Nov. 2022． [PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing)
-- Naoya Kitagawa, Atsuko Takefusa, Kento Aida, Development of a Secure Data Sharing Mechanism for IoT Application Systems, Proc. 2022 IEEE 11th International Conference on Cloud Networking (CloudNet), pp. 131-135, Nov. 2022. [doi: 10.1109/CloudNet55617.2022.9978835](https://doi.org/10.1109/CloudNet55617.2022.9978835)
-- Ryotaro Banno, Kotaro Matsuoka, Naoki Matsumoto, Song Bian, Masaki Waga, Kohei Suenaga, Oblivious Online Monitoring for Safety LTL Specification via Fully Homomorphic Encryption, Lecture Notes in Computer Science (Computer Aided Verification), 13371, pp. 447-468, Aug. 2022. [Link](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_22)
+- [Paper] Naoya Kitagawa, Atsuko Takefusa, Kento Aida, Development of a Secure Data Sharing Mechanism for IoT Application Systems, Proc. 2022 IEEE 11th International Conference on Cloud Networking (CloudNet), pp. 131-135, Nov. 2022. [doi: 10.1109/CloudNet55617.2022.9978835](https://doi.org/10.1109/CloudNet55617.2022.9978835)
+- [Paper] Ryotaro Banno, Kotaro Matsuoka, Naoki Matsumoto, Song Bian, Masaki Waga, Kohei Suenaga, Oblivious Online Monitoring for Safety LTL Specification via Fully Homomorphic Encryption, Lecture Notes in Computer Science (Computer Aided Verification), 13371, pp. 447-468, Aug. 2022. [Link](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_22)
