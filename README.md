@@ -88,7 +88,7 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 #### 2024年度
 - 小林 久美子, 竹房 あつ子, 北川 直哉, 大島 浩太, 竹島 雅之, 平田 真樹, 森松 文毅, 吉田 浩, 合田 憲人, IoT アプリケーションシステムのための SINETStream 多種センサデータ可視化・監視機能の開発, 学術情報処理研究 (JACN) (to appear).
 - Terunobu Inaba, Yutaka Ishikawa, Atsushi Igarashi, Taro Sekiyama, Rabbit: A Language to Model and Verify Data Flow in Networked Systems, Proc. the 11th International Symposium on Networks, Computers and Communications (ISNCC'24).
-- Masaki Waga, Kotaro Matsuoka, Takashi Suwa, Naoki Matsumoto, Ryotaro Banno, Song Bian, Kohei Suenaga Oblivious Monitoring for Discrete-Time STL via Fully Homomorphic Encryption, Proc. The 24th International Conference on Runtime Verification (RV 2024).
+- Masaki Waga, Kotaro Matsuoka, Takashi Suwa, Naoki Matsumoto, Ryotaro Banno, Song Bian, Kohei Suenaga, Oblivious Monitoring for Discrete-Time STL via Fully Homomorphic Encryption, Proc. The 24th International Conference on Runtime Verification (RV 2024).
 - Taro Sekiyama, Hiroshi Unno, Higher-Order Model Checking of Effect-Handling Programs with Answer-Type Modification, Proc. the ACM on Programming Languages (PACMPL).
 
 - Atsuya Osaki, Manuel Poisson, Seiki Makino, Ryusei Shiiba, Kensuke Fukuda, Tadashi Okoshi, Jin Nakazawa, Dynamic Fixed-point Values in eBPF: a Case for Fully In-kernel Anomaly Detection, Proc. AINTEC 2024, pp. 46-54, Aug. 2024. [doi: 10.1145/3674213.3674219](https://doi.org/10.1145/3674213.3674219)
@@ -122,27 +122,30 @@ Programming Languages, pp. 115-147, Jan. 2024. [doi 10.1145/3633280](https://doi
 ### 講演，口頭発表等
 
 #### 2024年度
-- [Demo] 青木 信雄, 山下 直希, 丹生 智也, 坂根 栄作, 合田 憲人, 石川 裕, 小野 泰司, 竹房 あつ子, IoTソフトウェアの信頼性とレジリエンスを高めるZT-OTA Update Frameworkのプロトタイプ実装, Computer Security Symposium 2024, Demonstration, Oct. 2024.
+- [Invited Talk] 竹房 あつ子, システムソフトウェアと形式検証によるゼロトラストIoTの実現, SASE・ハイブリッドワーク時代のセキュリティ 2024 秋, 基調講演, Oct. 2024.
+- [Poster] 青木 信雄, 山下 直希, 丹生 智也, 坂根 栄作, 合田 憲人, 石川 裕, 小野 泰司, 竹房 あつ子, IoTソフトウェアの信頼性とレジリエンスを高めるZT-OTA Update Frameworkのプロトタイプ実装, Computer Security Symposium 2024, Demonstration, Oct. 2024.
 - [Poster] Jie Yin, Yutaka Ishikawa, Atsuko Takefusa, Towards A light-weight Anomaly Detection Framework for IoT DevicesComputer Security Symposium 2024, Poster, Oct. 2024.
 - [Talk] 佐々木 怜名, 石川 裕, 竹房 あつ子, 中田 秀基, 小口 正人, IoTシステムにおける属性ベース暗号の活用に向けた検討, Computer Security Symposium 2024, Oct. 2024.
 - [Poster] 佐々木 怜名, 石川 裕, 竹房 あつ子, 中田 秀基, 小口 正人, 属性ベース暗号を用いたIoT通信の性能評価, xSIG 2024 (ポスター), Aug. 2024.
 - [Poster] Atsuko Takefusa, Yutaka Ishikawa, Yasushi Ono, Design of Trust Chained IoT Key Management using OP-TEE, USENIX OSDI '24, Poster, Jul. 2024.
-- [Talk] Lelio Brun, Taro Sekiyama, 実世界のIoTデバイスの自動セキュリティ分析, NIIオープンハウス2024 ポスター展示, Jun. 2024.
-- [Talk] 稲葉 皓信, 関山 太朗, 五 十嵐 淳, 石川 裕, IoTシステムのモデル化とセキュリティ検証のためのプログラミング言語 Rabbit, NIIオープンハウス2024 ポスター展示, Jun. 2024.
-- [Talk] 竹房 あつ子, 関山 太郎, 福田 健介, 蓮尾 一郎, 合田 憲人, 石川 裕, Society 5.0のためのゼロトラストIoT, NIIオープンハウス2024 ポスター展示, Jun. 2024.
-- [Talk] 青木 信雄, 竹房 あつ子, 石川 裕, 小野 泰司, 坂根 栄作, 合田 憲人, IoTシステムのソフトウェアの信頼性とレジリエンスを強化するソフトウェア更新, NIIオープンハウス2024 ポスター展示, Jun. 2024.
+- [Poster] Lelio Brun, Taro Sekiyama, 実世界のIoTデバイスの自動セキュリティ分析, NIIオープンハウス2024 ポスター展示, Jun. 2024.
+- [Poster] 稲葉 皓信, 関山 太朗, 五 十嵐 淳, 石川 裕, IoTシステムのモデル化とセキュリティ検証のためのプログラミング言語 Rabbit, NIIオープンハウス2024 ポスター展示, Jun. 2024.
+- [Poster] 竹房 あつ子, 関山 太郎, 福田 健介, 蓮尾 一郎, 合田 憲人, 石川 裕, Society 5.0のためのゼロトラストIoT, NIIオープンハウス2024 ポスター展示, Jun. 2024.
+- [Poster] 青木 信雄, 竹房 あつ子, 石川 裕, 小野 泰司, 坂根 栄作, 合田 憲人, IoTシステムのソフトウェアの信頼性とレジリエンスを強化するソフトウェア更新, NIIオープンハウス2024 ポスター展示, Jun. 2024.
 
 #### 2023年度
 - [Talk] 稲葉 皓信, 五十嵐 淳, 石川 裕, 関山 太朗, データフローセキュリティの検証のためのIoTシステムモデリング言語 Rabbit, 第26回プログラミングおよびプログラミング言語ワークショップ, Mar. 2024.
-- [Talk] Atsuko Takefusa, System Software Studies towards Zero Trust IoT (ZT-IoT), Cloud-edge Fusion (CEF) Symposium, CENTRA 7, Feb. 2024.
+- [Invited Talk] Atsuko Takefusa, System Software Studies towards Zero Trust IoT (ZT-IoT), Cloud-edge Fusion (CEF) Symposium, CENTRA 7, Feb. 2024.
 - [Talk] 中林 美郷，関山 太朗，蓮尾 一郎，石川 裕, 攻撃決定図の自動生成によるTamarin Proverの脅威モデリング支援, 2024年暗号と情報セキュリティシンポジウム(SCIS2024), Jan. 2024.
 - [Talk] 合田 憲人, 山下 直希, 丹 生 智也, 坂根 栄作, 小野 泰司, 青木 信雄, 竹房 あつ子, 石川 裕, 研究ソフトウェア信頼性保証のためのソフトウェア認証機構, 2024年暗号と情報セキュリティシンポジウム(SCIS2024), Jan. 2024.
-- [Talk] 竹房 あつ子, SINETStreamによるIoTデータ利活用支援, データ活用社会創成シンポジウム2023, Dec. 2023.
+- [Invited Talk] 竹房 あつ子, SINETStreamによるIoTデータ利活用支援, データ活用社会創成シンポジウム2023, Dec. 2023.
 - 竹房 あつ子, 小野 泰司, 石川 裕, OP-TEEを用いたZero Trust IoTのための階層鍵管理機構の性能評価実験, インターネットと運用技術
 シンポジウム(IOTS2023) (ポスター), Dec. 2023.
 - [Exhibition] Zero Trust based IoT Security, SC23 Exhibition Booth #256, Nov. 2023． [Link](https://ccrd.nii.ac.jp/sc23/)
-- [Talk] 関山 太朗, 形式検証によるセキュアなIoTシステムの実現に向けて, コンピュータセキュリティシンポジウムCSS2023 形式検証とセキュリティワークショップ, Nov. 2023.
+- [Invited Talk] 関山 太朗, 形式検証によるセキュアなIoTシステムの実現に向けて, コンピュータセキュリティシンポジウムCSS2023 形式検証とセキュリティワークショップ, Nov. 2023.
 - [Talk] 青木 信雄, 竹房 あつ子, 石川 裕, 小野 泰司, 坂根 栄作, 合田 憲人, ゼロトラストIoTに向けたIoT機器のOTAソフトウェアアップデートフレームワークの検討, コンピュータセキュリティシンポジウムCSS2023論文集 2F3-4, pp. 652-659, Oct. 2023.
+- [Invited Talk] Taro Sekiyama, Answer-Refinement Modification: A refinement type system for algebraic effect handlers, Shonan Meeting No.203 (Effect Handlers and General-Purpose Languages), Aug. 2023.
+- [Talk] 大崎 敦也, 牧野 青希, 椎葉 瑠星, 福田 健介, 大越 匡, 中澤 仁, eBPFとXDPを用いた高速なDDoS攻撃検出・自動対処システムの提案と実装, 電子情報通信学会 IA研究会, Sep. 2023.
 - [Talk] 今井 航一，石川 裕，加藤 真平, IoTにおけるTrusted Execution Environmentによるシステムコールのモニタリングとポリシー管理の設計, 情報処理学会研究報告 2023-OS-160, Aug. 2023.
 - [Talk] 稲葉 皓信, 関山 太朗, 五十嵐 淳, 石川 裕, Rabbit: a modeling language for verifying data-flow 
 security, 情報処理学会研究報告 PRO, Aug. 2023.
@@ -152,18 +155,18 @@ security, 情報処理学会研究報告 PRO, Aug. 2023.
 
 #### 2022年度
 - [Poster] Sayako Shimizu, Eisaku Sakane, Takeshi Nishimura, Kento Aida, Atsuko Takefusa, Certification Mechanism to Assure Software Reliability with Digital Signature, International Symposium on Grids & Clouds (ISGC), Mar. 2023.
-- [Talk] 竹房 あつ子, 形式検証とシステムソフトウェアの協働によるゼロトラストIoT, 情報処理学会第85回全国大会 イベント企画「Society 5.0時代の 安心・安全・信頼を支える基盤ソフトウェア技術の構築」, 2023年3月.
+- [Invited Talk] 竹房 あつ子, 形式検証とシステムソフトウェアの協働によるゼロトラストIoT, 情報処理学会第85回全国大会 イベント企画「Society 5.0時代の 安心・安全・信頼を支える基盤ソフトウェア技術の構築」, 2023年3月.
 - [Talk] 川島 佑介，松井 俊浩, パスワード及びログの保存設定に着目したIoTデバイスにおけるファームウェアの安全性調査, 情報処理学会第100回コンピュータセキュリティ研究会CSEC, 2023年3月.
-- [Talk] Atsuko Takefusa, Building System Software for Zero Trust IoT (ZT-IoT), Secure Device Forum 2023, Feb. 2023.　(招待講演)
-- [Talk] Atsushi Igarashi, (I Can't Get No) Verification, ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications (SPLASH), Dec. 2022.　(招待講演) [Link](https://dl.acm.org/doi/abs/10.1145/3563768.3570524)
+- [Invited Talk] Atsuko Takefusa, Building System Software for Zero Trust IoT (ZT-IoT), Secure Device Forum 2023, Feb. 2023.
+- [Invited Talk] Atsushi Igarashi, (I Can't Get No) Verification, ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications (SPLASH), Dec. 2022. [Link](https://dl.acm.org/doi/abs/10.1145/3563768.3570524)
 - [Exhibition] Zero Trust based IoT Security, SC22 Exhibition Booth #4205, 2022年11月．[PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing)
 - [Talk] 松本 悟、松井 俊浩, Pub/Sub 通信を行うコネクテッド自動運転車の周囲で捕捉されるデジタル証拠収集機能の提案, コンピュータセキュリティシンポジウムCSS2022, 2022年10月.
-- [Talk] 竹房 あつ子, ゼロトラストIoT (ZT-IoT)に向けたシステムソフトウェアの研究, 電子情報通信学会ソサイエティ大会, BI-4-1, 2022年9月. (招待講演) [Link](https://www.ieice-taikai.jp/2022society/jpn/webpro/_html/cs_kikaku.html#bi_4)
-- [Talk] 松井 俊浩, 小野 泰司, 信頼の基点に基づくIoTデバイスの通信, 電子情報通信学会ソサイエティ大会, BI-4-2, 2022年9月. (招待講演) [Link](https://www.ieice-taikai.jp/2022society/jpn/webpro/_html/cs_kikaku.html#bi_4)
+- [Invited Talk] 竹房 あつ子, ゼロトラストIoT (ZT-IoT)に向けたシステムソフトウェアの研究, 電子情報通信学会ソサイエティ大会, BI-4-1, 2022年9月. [Link](https://www.ieice-taikai.jp/2022society/jpn/webpro/_html/cs_kikaku.html#bi_4)
+- [Invited Talk] 松井 俊浩, 小野 泰司, 信頼の基点に基づくIoTデバイスの通信, 電子情報通信学会ソサイエティ大会, BI-4-2, 2022年9月. [Link](https://www.ieice-taikai.jp/2022society/jpn/webpro/_html/cs_kikaku.html#bi_4)
 - [Talk] 石川 裕, Yin Jie, 竹房 あつ子, 松井 俊浩, 小野 泰司, 合田 憲人, Pub/Sub通信モデルを用いたセキュリティ監視機構の検討, 情報処理学会研究報告, vol. 2022-OS-156, no. 2, pp. 1-6, 2022年7月. [Link](http://id.nii.ac.jp/1001/00218868/), [Slide](https://drive.google.com/file/d/1Vxm7Yk7b2LSvtr8cyOFtV6g4i7n857Jw/view?usp=sharing)
 - [Poster] Society 5.0のためのゼロトラストIoT. NIIオープンハウスポスター, 2022年6月. [PDF](https://drive.google.com/file/d/1NubCDcZBdBOFwC2MvgTIdbCKVqZWvaMF/view?usp=sharing)
 
 #### 2021年度
 - [Talk] 竹房 あつ子, 五十嵐 淳, 関山 太郎, 松井 俊浩, 小野 泰司, 福田 健介, 蓮尾 一郎, 合田 憲人, 石川 裕, ZT-IoT: ゼロトラストIoTのためのシステムソフトウェア構築に向けて, 情報処理学会研究報告, vol. 2022-OS-154, no. 3, pp. 1-16, 2022年3月. [Link](http://id.nii.ac.jp/1001/00217217/), [Slide](https://drive.google.com/file/d/1cxKrYkvDgTMrmB6wWGnWV0DMFo_JH-xN/view?usp=sharing)
 - [Poster] 竹房 あつ子, 五十嵐 淳, 関山 太郎, 松井 俊浩, 小野 泰司, 福田 健介, 蓮尾 一郎, 合田 憲人, 石川 裕, ZT-IoT: ゼロトラストIoTのためのシステムソフトウェアの検討, 情報処理学会 第154回OS研究発表会, 2022年3月.
-- [Talk] 竹房あつ子, 形式検証とシステムソフトウェアの協働によるゼロトラストIoT, CREST/さきがけセッション, ComSys 2021, 2021年12月.
+- [Invited Talk] 竹房あつ子, 形式検証とシステムソフトウェアの協働によるゼロトラストIoT, CREST/さきがけセッション, ComSys 2021, 2021年12月.
