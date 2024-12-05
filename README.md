@@ -19,6 +19,7 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 
 <a name="topics"> </a>
 ## Topics
+* 2024/11 [SC24](https://sc24.supercomputing.org/)の展示会場で本ブロジェクトの展示発表を行いました． [Link](https://ccrd.nii.ac.jp/sc24/)
 * 2023/11 [SC23](https://sc23.supercomputing.org/)の展示会場で本ブロジェクトの展示発表を行いました． [Link](https://ccrd.nii.ac.jp/sc23/) 
 * 2022/11/01 11/14-17に[SC22](https://sc22.supercomputing.org/)の展示会場(Booth# 4205)で本ブロジェクトの展示発表を行います． [PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing) 
 * 2021/09/21 [2021年度 戦略的創造研究推進事業 (CREST)，研究領域「基礎理論とシステム基盤技術の融合によるSociety 5.0のための基盤ソフトウェアの創出 (S5基盤ソフト)」に採択されました．](https://www.jst.go.jp/kisoken/crest/application/2021/210921/210921crest.pdf)
@@ -64,7 +65,7 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 - [蓮尾 一郎](https://researchmap.jp/read0136635), 国立情報学研究所 アーキテクチャ科学研究系 教授
 - [福田 健介](https://researchmap.jp/kensuke/), 国立情報学研究所 アーキテクチャ科学研究系 教授
 - BRUN, Lelio, 国立情報学研究所 アーキテクチャ科学研究系 特任研究員
-- 中林 美郷, [総合研究大学院大学](https://www.soken.ac.jp/)</a> 複合科学研究科情報学専攻 大学院生（博士課程）
+- 中林 美郷, [総合研究大学院大学](https://www.soken.ac.jp/) 複合科学研究科情報学専攻 大学院生（博士課程）
 - 椎葉 瑠星, 総合研究大学院大学 複合科学研究科情報学専攻 大学院生（博士課程）
 - 藤浪 大弥, 総合研究大学院大学 複合科学研究科情報学専攻 大学院生（博士課程）
 - 田口 研治, 国立情報学研究所 アーキテクチャ科学研究系 特任研究員 (〜2022年3月)
@@ -75,7 +76,7 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 - 若月 里香, 東京情報デザイン専門職大学 情報デザイン学科 特任助手
 
 ### IISECシステムソフトウェアグループ
-- [須崎　有康](https://www.iisec.ac.jp/education/professors/suzaki.html) (主たる共同研究者), [情報セキュリティ大学院大学](https://www.iisec.ac.jp)</a> 情報セキュリティ研究科 教授
+- [須崎　有康](https://www.iisec.ac.jp/education/professors/suzaki.html) (主たる共同研究者), [情報セキュリティ大学院大学](https://www.iisec.ac.jp) 情報セキュリティ研究科 教授
 - 小野 泰司, 情報セキュリティ大学院大学 情報セキュリティ研究科 特任助手
 - 若月 里香, 情報セキュリティ大学院大学 情報セキュリティ研究科 特任助手
 
