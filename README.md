@@ -19,6 +19,8 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 
 <a name="topics"> </a>
 ## Topics
+* 2025/11 [SC25](https://sc25.supercomputing.org/)の展示会場で本ブロジェクトの展示発表を行う予定です． [Link](https://ccrd.nii.ac.jp/sc25/)
+* 2025/10 [CEATEC 2025](https://www.ceatec.com/ja/)で展示発表を行います．[Link](https://www.ceatec.com/nj/exhibitor_detail_ja?id=1852)
 * 2024/11 [SC24](https://sc24.supercomputing.org/)の展示会場で本ブロジェクトの展示発表を行いました． [Link](https://ccrd.nii.ac.jp/sc24/)
 * 2023/11 [SC23](https://sc23.supercomputing.org/)の展示会場で本ブロジェクトの展示発表を行いました． [Link](https://ccrd.nii.ac.jp/sc23/) 
 * 2022/11/01 11/14-17に[SC22](https://sc22.supercomputing.org/)の展示会場(Booth# 4205)で本ブロジェクトの展示発表を行います． [PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing) 
@@ -45,7 +47,8 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 - [西村 健](https://researchmap.jp/nishimuratakeshi), 国立情報学研究所 学術基盤推進部 特任研究員
 - [丹生 智也](https://researchmap.jp/ttanjo), 国立情報学研究所 クラウド基盤研究開発センター 特任研究員
 - YIN, Jie, 国立情報学研究所 アーキテクチャ科学研究系 特任研究員
-- 青木 信雄, [総合研究大学院大学](https://www.soken.ac.jp/) 先端学術院 先端学術専攻 情報学コース 大学院生（博士課程）
+- 山下 直希, 国立情報学研究所 アーキテクチャ科学研究系 特任研究員
+- 青木 信雄, [総合研究大学院大学](https://www.soken.ac.jp/) 先端学術院 先端学術専攻 情報学コース 大学院生（博士課程）(RA)
 
 ### 京大理論グループ
 - [五十嵐 淳](https://researchmap.jp/Atsushi.Igarashi) (主たる共同研究者), [京都大学](https://www.i.kyoto-u.ac.jp) 大学院情報学研究科 教授
@@ -86,12 +89,16 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 
 ### 雑誌論文, 査読付き会議
 
-#### 2024年度
-- 小林 久美子, 竹房 あつ子, 北川 直哉, 大島 浩太, 竹島 雅之, 平田 真樹, 森松 文毅, 吉田 浩, 合田 憲人, IoT アプリケーションシステムのための SINETStream 多種センサデータ可視化・監視機能の開発, 学術情報処理研究 (JACN) (to appear).
-- Terunobu Inaba, Yutaka Ishikawa, Atsushi Igarashi, Taro Sekiyama, Rabbit: A Language to Model and Verify Data Flow in Networked Systems, Proc. the 11th International Symposium on Networks, Computers and Communications (ISNCC'24).
-- Masaki Waga, Kotaro Matsuoka, Takashi Suwa, Naoki Matsumoto, Ryotaro Banno, Song Bian, Kohei Suenaga, Oblivious Monitoring for Discrete-Time STL via Fully Homomorphic Encryption, Proc. The 24th International Conference on Runtime Verification (RV 2024).
-- Taro Sekiyama, Hiroshi Unno, Higher-Order Model Checking of Effect-Handling Programs with Answer-Type Modification, Proc. the ACM on Programming Languages (PACMPL).
+#### 2025年度
+- Reina Sasaki, Atsuko Takefusa, Hidemoto Nakada, Masato Oguchi, Communication Performance of ROS and ROS 2-based IoT Systems for Smart Home Applications, IEICE Transactions on Information and Systems, vol.E108-D, no.8, pp. 895-905, Aug. 2025. [doi: 10.1587/transinf.2024dap0005](https://doi.org/10.1587/transinf.2024dap0005)
 
+#### 2024年度
+- Taro Sekiyama, Hiroshi Unno, Algebraic Temporal Effects: Temporal Verification of Recursively Typed Higher-Order Programs, Proc. ACM Program. Lang. 9(POPL), pp. 2306-2336, Jan. 2025. [doi: 10.1145/3704914](https://dl.acm.org/doi/10.1145/3704914)
+- Chisa Ito, Atsuko Takefusa, Hidemoto Nakada, Masato Oguchi, A Study of Effective Compression Methods for IoT Communication, Proc. 2025 IEEE International Conference on Consumer Electronics (ICCE), pp. 1-6, Jan. 2025. [doi: 10.1109/ICCE63647.2025.10929811](https://doi.org/10.1109/ICCE63647.2025.10929811)
+- 小林 久美子, 竹房 あつ子, 北川 直哉, 大島 浩太, 竹島 雅之, 平田 真樹, 森松 文毅, 吉田 浩, 合田 憲人, IoT アプリケーションシステムのための SINETStream 多種センサデータ可視化・監視機能の開発, 学術情報処理研究 (JACN), vol. 28, no. 1, pp. 66-75, Nov. 2024. [doi: 10.24669/jacn.28.1_66](https://doi.org/10.24669/jacn.28.1_66)
+- Terunobu Inaba, Yutaka Ishikawa, Atsushi Igarashi, Taro Sekiyama, Rabbit: A Language to Model and Verify Data Flow in Networked Systems, Proc. the 11th International Symposium on Networks, Computers and Communications (ISNCC'24). [doi: 10.1109/ISNCC62547.2024.10758938](https://doi.org/10.1109/ISNCC62547.2024.10758938)
+- Masaki Waga, Kotaro Matsuoka, Takashi Suwa, Naoki Matsumoto, Ryotaro Banno, Song Bian, Kohei Suenaga, Oblivious Monitoring for Discrete-Time STL via Fully Homomorphic Encryption, Proc. The 24th International Conference on Runtime Verification (RV 2024). [doi: 10.1007/978-3-031-74234-7_4](https://doi.org/10.1007/978-3-031-74234-7_4)
+- Taro Sekiyama, Hiroshi Unno, Higher-Order Model Checking of Effect-Handling Programs with Answer-Type Modification, Proc. the ACM on Programming Languages, vol. 8, no. OOPSLA2, 30 pages, 2024. [doi: 10.1145/3689805](https://doi.org/10.1145/3689805)
 - Atsuya Osaki, Manuel Poisson, Seiki Makino, Ryusei Shiiba, Kensuke Fukuda, Tadashi Okoshi, Jin Nakazawa, Dynamic Fixed-point Values in eBPF: a Case for Fully In-kernel Anomaly Detection, Proc. AINTEC 2024, pp. 46-54, Aug. 2024. [doi: 10.1145/3674213.3674219](https://doi.org/10.1145/3674213.3674219)
 - Manuel Poisson, Rodrigo Carnier, Kensuke Fukuda, GothX: a generator of customizable, legitimate and malicious IoT network traffic, Proc. CSET 2024, pp. 65-73, Aug. 2024. [doi: 10.1145/3675741.3675753](https://doi.org/10.1145/3675741.3675753)
 - Jie Yin, Yutaka Ishikawa, Atsuko Takefusa, A Linux Audit and MQTT based Monitoring Framework for IoT Devices and Its Evaluation, IPSJ Journal special issue of “Applications and the internet” in conjunction with the main topics of COMPSAC 2023, vol. 65, no. 8, pp. 586-595, Aug. 2024. [doi: 10.2197/ipsjjip.32.586](https://doi.org/10.2197/ipsjjip.32.586)
@@ -111,7 +118,7 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 Programming Languages, pp. 115-147, Jan. 2024. [doi 10.1145/3633280](https://doi.org/10.1145/3633280)
 - Laura Lahesoo, Uyen Do, Rodrigo Carnier, Kensuke Fukuda, SIURU: A Framework for Machine Learning Based Anomaly Detection in IoT Network Traffic, Proc. the 18th Asian Internet Engineering Conference, pp. 87-95, Dec. 2023. [doi: 10.1145/3630590.3630601](https://doi.org/10.1145/3630590.3630601)
 - Lélio Brun, Ichiro Hasuo, Yasushi Ono and Taro Sekiyama, Automated Security Analysis for Real-World IoT Devices. Proc. HASP '23: Hardware and Architectural Support for Security and Privacy, pp 29-37, Oct. 2023. [doi: 10.1145/3623652.3623667)](https://doi.org/10.1145/3623652.3623667)
-- Jie Yin, Yutaka Ishikawa, Atsuko Takefusa, A Linux Audit and MQTT- based Security Monitoring Framework, Proc. IEEE COMPSAC 2023, pp. 648-657, Jun. 2023.
+- Jie Yin, Yutaka Ishikawa, Atsuko Takefusa, A Linux Audit and MQTT-based Security Monitoring Framework, Proc. IEEE COMPSAC 2023, pp. 648-657, Jun. 2023.
 - Taro Sekiyama, Unno Hiroshi, Temporal Verification with Answer-Effect Modification: Dependent Temporal Type- and-Effect System with Delimited Continuations, Proceedings of the ACM on Programming Languages (POPL), 7, POPL, pp. 2079-2110, Apr. 2023. [doi: 10.1145/3571264](https://doi.org/10.1145/3571264)
 - 竹房 あつ子, 小林 久美子, 北川 直哉, 孫 静涛, 吉田 浩, 合田 憲人, IoTアプリ構築支援のためのSINETStream Androidライブラリおよびセンサ情報収集アプリの開発, 情報処理学会論文誌デジタルプラクティス(TDP), 4, pp. 110-121, 2023年4月. [Link](https://www.ipsj.or.jp/dp/contents/publication/54/TR0402-12.html)
 
@@ -123,9 +130,18 @@ Programming Languages, pp. 115-147, Jan. 2024. [doi 10.1145/3633280](https://doi
 ### 講演，口頭発表等
 
 #### 2024年度
-- [Invited Talk] 竹房 あつ子, システムソフトウェアと形式検証によるゼロトラストIoTの実現, SASE・ハイブリッドワーク時代のセキュリティ 2024 秋, 基調講演, Oct. 2024.
+- [Poster] 神 拓⼰, 五⼗嵐 淳, eBPFプログラムの機能正当性検証に向けた検証フレームワークの提案 [PPL 2025 スポンサー特別賞], 第27回プログラミングおよびプログラミング言語ワークショップ PPL 2025, Mar. 2025.
+- [Poster] Atsushi Igarashi, Yutaka Ishikawa, Sewon Park, Taro Sekiyama, Extending Rabbit towards verified networked systems with user-defined semantics for system calls, 第27回プログラミングおよびプログラミング言語ワークショップ PPL 2025, Mar. 2025.
+- [Talk] Eisaku Sakane, Atsuko Takefusa, A Design of Automatic Certificate Management for a Zero Trust IoT System, International Symposium on Grids and Clouds (ISGC) 2025. 
+- [Talk] 伊藤 千紗, 竹房 あつ子, 中田 秀基, 小口 正人, JPEG圧縮を適用したIoT通信性能と物体検出精度の評価 [学生奨励賞], 情報処理学会 第87回全国大会, 2ZC-03, Mar. 2025.
+- [Talk] 伊藤 千紗, 竹房 あつ子, 中田 秀基, 小口 正人, IoT通信のためのJPEG圧縮と物体検出精度の性能評価, DEIM2025 第17回データ工学と情報マネジメントに関するフォーラム 3D-04, Feb. 2025.
+- [Talk] Kuniyasu Suzaki, Remote Attestation on Arm TrustZone OP-TEE with VERAISON Verifier - current status and future plan -, FOSDEM: Free and Open Source Development European Meeting, Feb. 2025.
+- [Talk] 伊藤 千紗, 竹房 あつ子, 中田 秀基, 小口 正人, IoT環境におけるデータ圧縮処理を適用した通信手法の評価［奨励講演］, 電子情報通信学会 NS2024-183, vol. 124, no. 344, pp. 77-82, Jan. 2025. 
+- [Invited Talk] 竹房 あつ子, システムソフトウェアと形式検証によるゼロトラストIoT, IEICE HWS主催 ハードウェアセキュリティフォーラム 2024, Dec. 2024.
+- [Talk] 伊藤 千紗, 竹房 あつ子, 中田 秀基, 小口 正人, IoT通信のための効果的なデータ圧縮処理の調査, 電子情報通信学会 NS2024-105, vol. 124, no. 197, pp. 80-85, Oct. 2024
+- [Keynote] 竹房 あつ子, システムソフトウェアと形式検証によるゼロトラストIoTの実現, SASE・ハイブリッドワーク時代のセキュリティ 2024 秋, 基調講演, Oct. 2024.
 - [Poster] 青木 信雄, 山下 直希, 丹生 智也, 坂根 栄作, 合田 憲人, 石川 裕, 小野 泰司, 竹房 あつ子, IoTソフトウェアの信頼性とレジリエンスを高めるZT-OTA Update Frameworkのプロトタイプ実装, Computer Security Symposium 2024, Demonstration, Oct. 2024.
-- [Poster] Jie Yin, Yutaka Ishikawa, Atsuko Takefusa, Towards A light-weight Anomaly Detection Framework for IoT DevicesComputer Security Symposium 2024, Poster, Oct. 2024.
+- [Poster] Jie Yin, Yutaka Ishikawa, Atsuko Takefusa, Towards A light-weight Anomaly Detection Framework for IoT Devices, Computer Security Symposium 2024, Poster, Oct. 2024.
 - [Talk] 佐々木 怜名, 石川 裕, 竹房 あつ子, 中田 秀基, 小口 正人, IoTシステムにおける属性ベース暗号の活用に向けた検討, Computer Security Symposium 2024, Oct. 2024.
 - [Poster] 佐々木 怜名, 石川 裕, 竹房 あつ子, 中田 秀基, 小口 正人, 属性ベース暗号を用いたIoT通信の性能評価, xSIG 2024 (ポスター), Aug. 2024.
 - [Poster] Atsuko Takefusa, Yutaka Ishikawa, Yasushi Ono, Design of Trust Chained IoT Key Management using OP-TEE, USENIX OSDI '24, Poster, Jul. 2024.
@@ -171,3 +187,8 @@ security, 情報処理学会研究報告 PRO, Aug. 2023.
 - [Talk] 竹房 あつ子, 五十嵐 淳, 関山 太郎, 松井 俊浩, 小野 泰司, 福田 健介, 蓮尾 一郎, 合田 憲人, 石川 裕, ZT-IoT: ゼロトラストIoTのためのシステムソフトウェア構築に向けて, 情報処理学会研究報告, vol. 2022-OS-154, no. 3, pp. 1-16, 2022年3月. [Link](http://id.nii.ac.jp/1001/00217217/), [Slide](https://drive.google.com/file/d/1cxKrYkvDgTMrmB6wWGnWV0DMFo_JH-xN/view?usp=sharing)
 - [Poster] 竹房 あつ子, 五十嵐 淳, 関山 太郎, 松井 俊浩, 小野 泰司, 福田 健介, 蓮尾 一郎, 合田 憲人, 石川 裕, ZT-IoT: ゼロトラストIoTのためのシステムソフトウェアの検討, 情報処理学会 第154回OS研究発表会, 2022年3月.
 - [Invited Talk] 竹房あつ子, 形式検証とシステムソフトウェアの協働によるゼロトラストIoT, CREST/さきがけセッション, ComSys 2021, 2021年12月.
+
+### 公開ソフトウェア・データ
+- [software] Rabbit, [https://github.com/zt-iot/rabbit](https://github.com/zt-iot/rabbit), 2025.
+- [software] GothX traffic generator, [https://github.com/fukuda-lab/GothX](https://github.com/fukuda-lab/GothX), 2025.
+- [database, software] OP-TEE Remote Attestation with VERAISON Verification, [https://github.com/iisec-suzaki/optee-ra](https://github.com/iisec-suzaki/optee-ra), 2024.
