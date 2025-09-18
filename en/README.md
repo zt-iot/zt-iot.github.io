@@ -14,6 +14,7 @@ CREST Research Area: [\[Society 5.0 System Software\] Creation of System Softwar
 
 <a name="topics"> </a>
 ## Topics
+- 2025/11 The ZT-IoT project will be presented at the [SC25](https://sc25.supercomputing.org/)  in St. Louis. [Link](https://ccrd.nii.ac.jp/sc25/)
 - 2024/11 The ZT-IoT project is presented at the [SC24](https://sc24.supercomputing.org/)  in Atlanta. [Link](https://ccrd.nii.ac.jp/sc24/)
 - 2023/11/11 The ZT-IoT project is presented at the [SC23](https://sc23.supercomputing.org/) Exhition Booth #256 in Denver. [Link](https://ccrd.nii.ac.jp/sc23/)
 - 2022/11/01 The ZT-IoT project is presented at the [SC22](https://sc22.supercomputing.org/) Exhition Booth #4205 in Dallas. [PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing)
@@ -35,8 +36,7 @@ We also promote social acceptance of IoT by ensuring the accountability.
   Information Systems Architecture Sciences Research Division,
   [National Institute of Informatics](https://www.nii.ac.jp/en/)
 - [Yutaka Ishikawa](https://researchmap.jp/yutaka_ishikawa?lang=en), Professor,
-  Information Systems Architecture Sciences Research Division,
-  National Institute of Informatics
+  Otsuma Women's University
 - [Kento Aida](https://researchmap.jp/aida?lang=en), Professor,
   Information Systems Architecture Sciences Research Division,
   National Institute of Informatics
@@ -54,6 +54,9 @@ We also promote social acceptance of IoT by ensuring the accountability.
 - [Takeshi Nishimura](https://researchmap.jp/nishimuratakeshi?lang=en), Project Researcher,
   Cyber Science Infrastructure Development Department, National Institute of Informatics
 - Jie YIN, Project Researcher,
+  Information Systems Architecture Sciences Research Division,
+  National Institute of Informatics
+- Naoki Yamashita, Project Researcher, 
   Information Systems Architecture Sciences Research Division,
   National Institute of Informatics
 - Nobuo Aoki, Doctoral Student,
@@ -141,11 +144,16 @@ We also promote social acceptance of IoT by ensuring the accountability.
 <a name="publications"> </a>
 ## Publications
 
-### FY 2024
-- [Paper] Terunobu Inaba, Yutaka Ishikawa, Atsushi Igarashi, Taro Sekiyama, Rabbit: A Language to Model and Verify Data Flow in Networked Systems, Proc. the 11th International Symposium on Networks, Computers and Communications (ISNCC'24).
-- [Paper] Masaki Waga, Kotaro Matsuoka, Takashi Suwa, Naoki Matsumoto, Ryotaro Banno, Song Bian, Kohei Suenaga Oblivious Monitoring for Discrete-Time STL via Fully Homomorphic Encryption, Proc. The 24th International Conference on Runtime Verification (RV 2024).
-- [Paper] Taro Sekiyama, Hiroshi Unno, Higher-Order Model Checking of Effect-Handling Programs with Answer-Type Modification, Proc. the ACM on Programming Languages (PACMPL).
+### FY 2025
+- Reina Sasaki, Atsuko Takefusa, Hidemoto Nakada, Masato Oguchi, Communication Performance of ROS and ROS 2-based IoT Systems for Smart Home Applications, IEICE Transactions on Information and Systems, vol.E108-D, no.8, pp. 895-905, Aug. 2025. [doi: 10.1587/transinf.2024dap0005](https://doi.org/10.1587/transinf.2024dap0005)
+- Jie Yin, Yutaka Ishikawa, Atsuko Takefusa, A Lightweight Monitoring and Anomaly Detection Framework for IoT Devices, Proc. IEEE COMPSAC 2025, pp. 1184-1193, Jul. 2025. [doi: 10.1587/transinf.2024dap0005](https://doi.org/10.1587/transinf.2024dap0005)
 
+### FY 2024
+- Taro Sekiyama, Hiroshi Unno, Algebraic Temporal Effects: Temporal Verification of Recursively Typed Higher-Order Programs, Proc. ACM Program. Lang. 9(POPL), pp. 2306-2336, Jan. 2025. [doi: 10.1145/3704914](https://dl.acm.org/doi/10.1145/3704914)
+- Chisa Ito, Atsuko Takefusa, Hidemoto Nakada, Masato Oguchi, A Study of Effective Compression Methods for IoT Communication, Proc. 2025 IEEE International Conference on Consumer Electronics (ICCE), pp. 1-6, Jan. 2025. [doi: 10.1109/ICCE63647.2025.10929811](https://doi.org/10.1109/ICCE63647.2025.10929811)
+- Terunobu Inaba, Yutaka Ishikawa, Atsushi Igarashi, Taro Sekiyama, Rabbit: A Language to Model and Verify Data Flow in Networked Systems, Proc. the 11th International Symposium on Networks, Computers and Communications (ISNCC'24). [doi: 10.1109/ISNCC62547.2024.10758938](https://doi.org/10.1109/ISNCC62547.2024.10758938)
+- Masaki Waga, Kotaro Matsuoka, Takashi Suwa, Naoki Matsumoto, Ryotaro Banno, Song Bian, Kohei Suenaga, Oblivious Monitoring for Discrete-Time STL via Fully Homomorphic Encryption, Proc. The 24th International Conference on Runtime Verification (RV 2024). [doi: 10.1007/978-3-031-74234-7_4](https://doi.org/10.1007/978-3-031-74234-7_4)
+- Taro Sekiyama, Hiroshi Unno, Higher-Order Model Checking of Effect-Handling Programs with Answer-Type Modification, Proc. the ACM on Programming Languages, vol. 8, no. OOPSLA2, 30 pages, 2024. [doi: 10.1145/3689805](https://doi.org/10.1145/3689805)
 - [Paper] Atsuya Osaki, Manuel Poisson, Seiki Makino, Ryusei Shiiba, Kensuke Fukuda, Tadashi Okoshi, Jin Nakazawa, Dynamic Fixed-point Values in eBPF: a Case for Fully In-kernel Anomaly Detection, Proc. AINTEC 2024, pp. 46-54, Aug. 2024. [doi: 10.1145/3674213.3674219](https://doi.org/10.1145/3674213.3674219)
 - [Paper] Manuel Poisson, Rodrigo Carnier, Kensuke Fukuda, GothX: a generator of customizable, legitimate and malicious IoT network traffic, Proc. CSET 2024, pp. 65-73, Aug. 2024. [doi: 10.1145/3675741.3675753](https://doi.org/10.1145/3675741.3675753)
 - [Paper] Jie Yin, Yutaka Ishikawa, Atsuko Takefusa, A Linux Audit and MQTT based Monitoring Framework for IoT Devices and Its Evaluation, IPSJ Journal special issue of “Applications and the internet” in conjunction with the main topics of COMPSAC 2023, vol. 65, no. 8, pp. 586-595, Aug. 2024. [doi: 10.2197/ipsjjip.32.586](https://doi.org/10.2197/ipsjjip.32.586)
@@ -180,3 +188,8 @@ ACM SIGPLAN International Conference on Systems, Programming, Languages, and App
 - [Exhibition] Zero Trust based IoT Security, SC22 Exhibition Booth #4205, Nov. 2022． [PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing)
 - [Paper] Naoya Kitagawa, Atsuko Takefusa, Kento Aida, Development of a Secure Data Sharing Mechanism for IoT Application Systems, Proc. 2022 IEEE 11th International Conference on Cloud Networking (CloudNet), pp. 131-135, Nov. 2022. [doi: 10.1109/CloudNet55617.2022.9978835](https://doi.org/10.1109/CloudNet55617.2022.9978835)
 - [Paper] Ryotaro Banno, Kotaro Matsuoka, Naoki Matsumoto, Song Bian, Masaki Waga, Kohei Suenaga, Oblivious Online Monitoring for Safety LTL Specification via Fully Homomorphic Encryption, Lecture Notes in Computer Science (Computer Aided Verification), 13371, pp. 447-468, Aug. 2022. [Link](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_22)
+
+### Artifacts
+- [software] Rabbit, [https://github.com/zt-iot/rabbit](https://github.com/zt-iot/rabbit), 2025.
+- [software] GothX traffic generator, [https://github.com/fukuda-lab/GothX](https://github.com/fukuda-lab/GothX), 2025.
+- [database, software] OP-TEE Remote Attestation with VERAISON Verification, [https://github.com/iisec-suzaki/optee-ra](https://github.com/iisec-suzaki/optee-ra), 2024.
