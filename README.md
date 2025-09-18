@@ -38,7 +38,7 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 ## メンバー
 ### NIIシステムソフトウェアグループ
 - [竹房 あつ子](https://researchmap.jp/takefusa) (研究代表者), [国立情報学研究所](https://www.nii.ac.jp/) アーキテクチャ科学研究系 教授
-- [石川 裕](https://researchmap.jp/yutaka_ishikawa), 国立情報学研究所 アーキテクチャ科学研究系 教授
+- [石川 裕](https://researchmap.jp/yutaka_ishikawa), 大妻女子大学 データサイエンス学部 教授
 - [合田 憲人](https://researchmap.jp/aida), 国立情報学研究所 アーキテクチャ科学研究系 教授
 - [清水 さや子](https://researchmap.jp/smzs), 国立情報学研究所 アーキテクチャ科学研究系 助教
 - [北川 直哉](https://researchmap.jp/7000026496), 国立情報学研究所 学術ネットワーク研究開発センター 特任准教授
