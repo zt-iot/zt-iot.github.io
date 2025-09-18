@@ -91,6 +91,7 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 
 #### 2025年度
 - Reina Sasaki, Atsuko Takefusa, Hidemoto Nakada, Masato Oguchi, Communication Performance of ROS and ROS 2-based IoT Systems for Smart Home Applications, IEICE Transactions on Information and Systems, vol.E108-D, no.8, pp. 895-905, Aug. 2025. [doi: 10.1587/transinf.2024dap0005](https://doi.org/10.1587/transinf.2024dap0005)
+- Jie Yin, Yutaka Ishikawa, Atsuko Takefusa, A Lightweight Monitoring and Anomaly Detection Framework for IoT Devices, Proc. IEEE COMPSAC 2025, pp. 1184-1193, Jul. 2025. [doi: 10.1587/transinf.2024dap0005](https://doi.org/10.1587/transinf.2024dap0005)
 
 #### 2024年度
 - Taro Sekiyama, Hiroshi Unno, Algebraic Temporal Effects: Temporal Verification of Recursively Typed Higher-Order Programs, Proc. ACM Program. Lang. 9(POPL), pp. 2306-2336, Jan. 2025. [doi: 10.1145/3704914](https://dl.acm.org/doi/10.1145/3704914)
