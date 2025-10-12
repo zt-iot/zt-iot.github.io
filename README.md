@@ -54,12 +54,12 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 - [五十嵐 淳](https://researchmap.jp/Atsushi.Igarashi) (主たる共同研究者), [京都大学](https://www.i.kyoto-u.ac.jp) 大学院情報学研究科 教授
 - [末永 幸平](https://researchmap.jp/ksuenaga), 京都大学 大学院情報学研究科 准教授
 - [和賀 正樹](https://researchmap.jp/mwaga), 京都大学 大学院情報学研究科 助教
-- [PARK, Sewon](https://researchmap.jp/sewonpark), 京都大学 大学院情報学研究科 特定研究員
+- [PARK, Sewon](https://researchmap.jp/sewonpark), 京都大学 大学院情報学研究科 特定研究員 (〜2025年9月) / リュブリャナ大学 研究員 
 - 神 拓己，京都大学 大学院情報学研究科 情報学専攻 大学院生 (修士課程)
 - [西田 雄気](https://researchmap.jp/yuki-nishida)，京都大学 大学院情報学研究科 特定研究員 (〜2023年4月)
 - 稲葉 皓信, 京都大学 大学院情報学研究科 通信情報システム専攻 大学院生 (修士課程) (〜2023年10月)
 - SHI, Zhen, 京都大学 大学院情報学研究科 通信情報システム専攻 大学院生 (修士課程) (〜2023年3月)
-- 阪口 裕飛, 京都大学 大学院情報学研究科 通信情報システム専攻 大学院生 (修士課程) (〜2023年3月))
+- 阪口 裕飛, 京都大学 大学院情報学研究科 通信情報システム専攻 大学院生 (修士課程) (〜2023年3月)
 
 ### NII理論グループ
 - [関山 太朗](https://researchmap.jp/t-sekiym) (主たる共同研究者), [国立情報学研究所](https://www.nii.ac.jp/) アーキテクチャ科学研究系 准教授
@@ -92,6 +92,8 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 #### 2025年度
 - Reina Sasaki, Atsuko Takefusa, Hidemoto Nakada, Masato Oguchi, Communication Performance of ROS and ROS 2-based IoT Systems for Smart Home Applications, IEICE Transactions on Information and Systems, vol.E108-D, no.8, pp. 895-905, Aug. 2025. [doi: 10.1587/transinf.2024dap0005](https://doi.org/10.1587/transinf.2024dap0005)
 - Jie Yin, Yutaka Ishikawa, Atsuko Takefusa, A Lightweight Monitoring and Anomaly Detection Framework for IoT Devices, Proc. IEEE COMPSAC 2025, pp. 1184-1193, Jul. 2025. [doi: 10.1109/COMPSAC65507.2025.00151](https://doi.org/10.1109/COMPSAC65507.2025.00151)
+- Sewon Park, Atsushi Igarashi, Making Rabbit Run for Security Verification of Networked Systems with Unbounded Loops, Proc. FMCAD 2025, OCt. 2025. 
+[doi: 10.34727/2025/isbn.978-3-85448-084-6_24](https://doi.org/10.34727/2025/isbn.978-3-85448-084-6_24)
 
 #### 2024年度
 - Taro Sekiyama, Hiroshi Unno, Algebraic Temporal Effects: Temporal Verification of Recursively Typed Higher-Order Programs, Proc. ACM Program. Lang. 9(POPL), pp. 2306-2336, Jan. 2025. [doi: 10.1145/3704914](https://dl.acm.org/doi/10.1145/3704914)
