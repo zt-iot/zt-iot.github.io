@@ -145,6 +145,8 @@ We also promote social acceptance of IoT by ensuring the accountability.
 ## Publications
 
 ### FY 2025
+- Sewon Park, Atsushi Igarashi, Making Rabbit Run for Security Verification of Networked Systems with Unbounded Loops, Proc. FMCAD 2025, OCt. 2025. 
+[doi: 10.34727/2025/isbn.978-3-85448-084-6_24](https://doi.org/10.34727/2025/isbn.978-3-85448-084-6_24)
 - Reina Sasaki, Atsuko Takefusa, Hidemoto Nakada, Masato Oguchi, Communication Performance of ROS and ROS 2-based IoT Systems for Smart Home Applications, IEICE Transactions on Information and Systems, vol.E108-D, no.8, pp. 895-905, Aug. 2025. [doi: 10.1587/transinf.2024dap0005](https://doi.org/10.1587/transinf.2024dap0005)
 - Jie Yin, Yutaka Ishikawa, Atsuko Takefusa, A Lightweight Monitoring and Anomaly Detection Framework for IoT Devices, Proc. IEEE COMPSAC 2025, pp. 1184-1193, Jul. 2025. [doi: 10.1109/COMPSAC65507.2025.00151](https://doi.org/10.1109/COMPSAC65507.2025.00151)
 
