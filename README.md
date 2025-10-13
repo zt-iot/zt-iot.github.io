@@ -20,7 +20,7 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 <a name="topics"> </a>
 ## Topics
 * 2025/11 [SC25](https://sc25.supercomputing.org/)の展示会場で本ブロジェクトの展示発表を行う予定です． [Link](https://ccrd.nii.ac.jp/sc25/)
-* 2025/10 [CEATEC 2025](https://www.ceatec.com/ja/)で展示発表を行います．[Link](https://www.ceatec.com/nj/exhibitor_detail_ja?id=1852)
+* 2025/10 [CEATEC 2025](https://www.ceatec.com/ja/)で展示発表を行います．[Link](https://www.ceatec.com/nj/exhibitor_detail_ja?id=1852) [ニュースリリース](https://www.nii.ac.jp/news/release/2025/1010.html)
 * 2024/11 [SC24](https://sc24.supercomputing.org/)の展示会場で本ブロジェクトの展示発表を行いました． [Link](https://ccrd.nii.ac.jp/sc24/)
 * 2023/11 [SC23](https://sc23.supercomputing.org/)の展示会場で本ブロジェクトの展示発表を行いました． [Link](https://ccrd.nii.ac.jp/sc23/) 
 * 2022/11/01 11/14-17に[SC22](https://sc22.supercomputing.org/)の展示会場(Booth# 4205)で本ブロジェクトの展示発表を行います． [PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing) 
@@ -90,10 +90,10 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 ### 雑誌論文, 査読付き会議
 
 #### 2025年度
-- Reina Sasaki, Atsuko Takefusa, Hidemoto Nakada, Masato Oguchi, Communication Performance of ROS and ROS 2-based IoT Systems for Smart Home Applications, IEICE Transactions on Information and Systems, vol.E108-D, no.8, pp. 895-905, Aug. 2025. [doi: 10.1587/transinf.2024dap0005](https://doi.org/10.1587/transinf.2024dap0005)
-- Jie Yin, Yutaka Ishikawa, Atsuko Takefusa, A Lightweight Monitoring and Anomaly Detection Framework for IoT Devices, Proc. IEEE COMPSAC 2025, pp. 1184-1193, Jul. 2025. [doi: 10.1109/COMPSAC65507.2025.00151](https://doi.org/10.1109/COMPSAC65507.2025.00151)
 - Sewon Park, Atsushi Igarashi, Making Rabbit Run for Security Verification of Networked Systems with Unbounded Loops, Proc. FMCAD 2025, OCt. 2025. 
 [doi: 10.34727/2025/isbn.978-3-85448-084-6_24](https://doi.org/10.34727/2025/isbn.978-3-85448-084-6_24)
+- Reina Sasaki, Atsuko Takefusa, Hidemoto Nakada, Masato Oguchi, Communication Performance of ROS and ROS 2-based IoT Systems for Smart Home Applications, IEICE Transactions on Information and Systems, vol.E108-D, no.8, pp. 895-905, Aug. 2025. [doi: 10.1587/transinf.2024dap0005](https://doi.org/10.1587/transinf.2024dap0005)
+- Jie Yin, Yutaka Ishikawa, Atsuko Takefusa, A Lightweight Monitoring and Anomaly Detection Framework for IoT Devices, Proc. IEEE COMPSAC 2025, pp. 1184-1193, Jul. 2025. [doi: 10.1109/COMPSAC65507.2025.00151](https://doi.org/10.1109/COMPSAC65507.2025.00151)
 
 #### 2024年度
 - Taro Sekiyama, Hiroshi Unno, Algebraic Temporal Effects: Temporal Verification of Recursively Typed Higher-Order Programs, Proc. ACM Program. Lang. 9(POPL), pp. 2306-2336, Jan. 2025. [doi: 10.1145/3704914](https://dl.acm.org/doi/10.1145/3704914)
