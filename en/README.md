@@ -56,7 +56,7 @@ We also promote social acceptance of IoT by ensuring the accountability.
 - Jie YIN, Project Researcher,
   Information Systems Architecture Sciences Research Division,
   National Institute of Informatics
-- Naoki Yamashita, Project Researcher, 
+- Naoki Yamashita, Project Technical Specialist, 
   Information Systems Architecture Sciences Research Division,
   National Institute of Informatics
 - Nobuo Aoki, Doctoral Student,
