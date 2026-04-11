@@ -76,9 +76,18 @@ We also promote social acceptance of IoT by ensuring the accountability.
 - [Sewon Park](https://researchmap.jp/sewonpark), Program-Specific Researcher,
     Department of Informatics,
 	Graduate School of Informatics, Kyoto University
-- Jin Takumi, Master's Student,
+- Alberto Bombardelli, Program-Specific Researcher,
+    Department of Informatics,
+	Graduate School of Informatics, Kyoto University
+- Seiya Kitagawa, Master's Student,
 	Department of Informatics,
 	Graduate School of Informatics, Kyoto University
+- Hikaru Hasegawa, Master's Student,
+	Department of Informatics,
+	Graduate School of Informatics, Kyoto University
+- Jin Takumi, Master's Student,
+	Department of Informatics,
+	Graduate School of Informatics, Kyoto University (to Mar., 2026)
 - [Nishida Yuki](https://researchmap.jp/yuki-nishida)，Program-Specific Researcher,
     Department of Informatics,
 	Graduate School of Informatics, Kyoto University (to Apr., 2024)
