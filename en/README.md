@@ -14,6 +14,7 @@ CREST Research Area: [\[Society 5.0 System Software\] Creation of System Softwar
 
 <a name="topics"> </a>
 ## Topics
+- 2026/07 We will present a project poster at [COMPSAC2026](https://ieeecompsac.computer.org/2026/).
 - 2025/11 The ZT-IoT project will be presented at the [SC25](https://sc25.supercomputing.org/)  in St. Louis. [Link](https://ccrd.nii.ac.jp/sc25/)
 - 2024/11 The ZT-IoT project is presented at the [SC24](https://sc24.supercomputing.org/)  in Atlanta. [Link](https://ccrd.nii.ac.jp/sc24/)
 - 2023/11/11 The ZT-IoT project is presented at the [SC23](https://sc23.supercomputing.org/) Exhition Booth #256 in Denver. [Link](https://ccrd.nii.ac.jp/sc23/)
