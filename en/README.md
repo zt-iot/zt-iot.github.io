@@ -157,7 +157,6 @@ We also promote social acceptance of IoT by ensuring the accountability.
 ### FY 2026
 - [Paper] Jie Yin, Yutaka Ishikawa, Atsuko Takefusa, Hardening IoT Devices with Real-time System Call Filtering and Remote Access Control, IPSJ Journal. (To appear)
 - [Poster] Atsuko Takefusa, Atsushi Igarashi, Taro Sekiyama, Kuniyasu Suzaki, Toshihiro Matsui, Jie Yin, Atsuya Osaki, Naoki Yamashita, Nobuo Aoki, Sewon Park, Terunobu Inaba, Lelio Brun, Yutaka Ishikawa, Kento Aida, Yasushi Ono, Kensuke Fukuda, Eisaku Sakane, Ichiro Hasuo, The Zero Trust IoT (ZT-IoT) Project, Proc. IEEE COMPSAC 2026, SSRPE, Jul. 2026.
-- [Paper] Haruka Kita, Yutaka Ishikawa, Atsuko Takefusa, Masato Oguchi, Design and Implementation of an Authentication and Authorization Mechanism Based on Unix Domain Sockets, Proc. IEEE COMPSAC 2026, STPSA, Jul. 2026.
 - [Paper] Takeshi Sakurada, Atsuko Takefusa, Kumiko Kobayashi, Ikki Fujiwara, Naoya Kitagawa, Kento Aida, A Prototype Implementation of SINETStream for Resource-Constrained MicroPython Environments, Proc. IEEE COMPSAC 2026, CDS, Jul. 2026.
 - [Talk] Kuniyasu Suzaki, Remote Attestation on Arm TrustZone OP-TEE with VERAISON Verifier -- current status and future plan ---, OpenSSF Community Day Japan, Jun. 2026.
 
