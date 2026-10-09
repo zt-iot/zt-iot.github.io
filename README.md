@@ -19,9 +19,10 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 
 <a name="topics"> </a>
 ## Topics
-- 2026/07 [COMPSAC2026](https://ieeecompsac.computer.org/2026/)で本プロジェクトのポスター発表を行います．
+- 2026/10 [CEATEC 2026](https://www.ceatec.com/ja/)で展示発表(Hall 4, Booth 4H207)を行います．[ニュースリリース](https://www.nii.ac.jp/news/release/2026/1009.html)
+- 2026/07 [COMPSAC2026](https://ieeecompsac.computer.org/2026/)で本プロジェクトのポスター発表を行います．[Link](https://doi.org/10.1109/COMPSAC69091.2026.00223)
 - 2025/11 [SC25](https://sc25.supercomputing.org/)の展示会場で本ブロジェクトの展示発表を行う予定です． [Link](https://ccrd.nii.ac.jp/events/sc/sc25/index.html)
-- 2025/10 [CEATEC 2025](https://www.ceatec.com/ja/)で展示発表を行います．[Link](https://www.ceatec.com/nj/exhibitor_detail_ja?id=1852) [ニュースリリース](https://www.nii.ac.jp/news/release/2025/1010.html)
+- 2025/10 [CEATEC 2025](https://www.ceatec.com/ja/)で展示発表を行います．[ニュースリリース](https://www.nii.ac.jp/news/release/2025/1010.html)
 - 2024/11 [SC24](https://sc24.supercomputing.org/)の展示会場で本ブロジェクトの展示発表を行いました． [Link](https://ccrd.nii.ac.jp/events/sc/sc24/index.html)
 - 2023/11 [SC23](https://sc23.supercomputing.org/)の展示会場で本ブロジェクトの展示発表を行いました． [Link](https://ccrd.nii.ac.jp/events/sc/sc23/index.html)
 - 2022/11/01 11/14-17に[SC22](https://sc22.supercomputing.org/)の展示会場(Booth# 4205)で本ブロジェクトの展示発表を行います． [PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing) 
@@ -91,12 +92,23 @@ JST CREST研究領域：[基礎理論とシステム基盤技術の融合によ�
 <a name="publications"> </a>
 ## 研究業績
 
+### 公開ソフトウェア・データ
+- [software] Realtime Application Security Monitoring (RASMO) Framework for IoT Systems, [https://github.com/zt-iot/rasmo](https://github.com/zt-iot/rasmo), Oct. 2026.
+- [software] Rabbit v2.1, [https://github.com/zt-iot/rabbit](https://github.com/zt-iot/rabbit), Oct. 2026.
+- [software] Rabbit v2, [https://github.com/zt-iot/rabbit](https://github.com/zt-iot/rabbit), 2026.
+- [software] Rabbit, [https://github.com/zt-iot/rabbit](https://github.com/zt-iot/rabbit), 2025.
+- [software] GothX traffic generator, [https://github.com/fukuda-lab/GothX](https://github.com/fukuda-lab/GothX), 2025.
+- [database, software] OP-TEE Remote Attestation with VERAISON Verification, [https://github.com/iisec-suzaki/optee-ra](https://github.com/iisec-suzaki/optee-ra), 2024.
+
 ### 雑誌論文, 査読付き会議
 
 #### 2026年度
-- Jie Yin, Yutaka Ishikawa, Atsuko Takefusa, Hardening IoT Devices with Real-time System Call Filtering and Remote Access Control, IPSJ Journal.
-- Atsuko Takefusa, Atsushi Igarashi, Taro Sekiyama, Kuniyasu Suzaki, Toshihiro Matsui, Jie Yin, Atsuya Osaki, Naoki Yamashita, Nobuo Aoki, Sewon Park, Terunobu Inaba, Lelio Brun, Yutaka Ishikawa, Kento Aida, Yasushi Ono, Kensuke Fukuda, Eisaku Sakane, Ichiro Hasuo, The Zero Trust IoT (ZT-IoT) Project, Proc. IEEE COMPSAC 2026, SSRPE, Jul. 2026.
-- Takeshi Sakurada, Atsuko Takefusa, Kumiko Kobayashi, Ikki Fujiwara, Naoya Kitagawa, Kento Aida, A Prototype Implementation of SINETStream for Resource-Constrained MicroPython Environments, Proc. IEEE COMPSAC 2026, CDS, Jul. 2026.
+- Satoshi Kura, Marco Gaboardi, Taro Sekiyama, Hiroshi Unno, A Category-Theoretic Framework for Dependent Effect Systems, Lecture Notes in Computer Science (ESOP), vol. 16501, pp. 401-431, Apr. 2026. [doi: 10.1007/978-3-032-22720-1_15](https://doi.org/10.1007/978-3-032-22720-1_15)
+- Masaki Waga, Kotaro Matsuoka, Takashi Suwa, ArithHomFA: A toolkit for oblivious online STL monitoring, Science of Computer Programming, vol. 254, Jul. 2026. [doi: 10.1016/j.scico.2026.103539](https://doi.org/10.1016/j.scico.2026.103539)
+- Atsuya Osaki, Ryusei Shiiba, Kensuke Fukuda, Jin Nakazawa, Overcoming eBPF Constraints: Towards Practical ML/NN-based Anomaly Detection, Journal of Information Processing, vol. 34, pp. 925-934, Sep. 2026. [doi: 10.2197/ipsjjip.34.925](https://doi.org/10.2197/ipsjjip.34.925)
+- Jie Yin, Yutaka Ishikawa, Atsuko Takefusa, Hardening IoT Devices with Real-time System Call Filtering and Remote Access Control, Journal of Information Processing, vol. 34, pp. 871-885, Sep. 2026. [doi: 10.2197/ipsjjip.34.871](https://doi.org/10.2197/ipsjjip.34.871)
+- Atsuko Takefusa, Atsushi Igarashi, Taro Sekiyama, Kuniyasu Suzaki, Toshihiro Matsui, Jie Yin, Atsuya Osaki, Naoki Yamashita, Nobuo Aoki, Sewon Park, Terunobu Inaba, Lelio Brun, Yutaka Ishikawa, Kento Aida, Yasushi Ono, Kensuke Fukuda, Eisaku Sakane, Ichiro Hasuo, The Zero Trust IoT (ZT-IoT) Project, Proc. IEEE COMPSAC 2026, SSRPE, Jul. 2026. [doi: 10.1109/COMPSAC69091.2026.00223](https://doi.org/10.1109/COMPSAC69091.2026.00223)
+- Takeshi Sakurada, Atsuko Takefusa, Kumiko Kobayashi, Ikki Fujiwara, Naoya Kitagawa, Kento Aida, A Prototype Implementation of SINETStream for Resource-Constrained MicroPython Environments, Proc. IEEE COMPSAC 2026, CDS, Jul. 2026. [doi: 10.1109/COMPSAC69091.2026.00359](https://doi.org/10.1109/COMPSAC69091.2026.00359)
 
 #### 2025年度
 - Nobuo Aoki, Atsuko Takefusa, Yutaka Ishikawa, Yasushi Ono, Eisaku Sakane, Kento Aida, ZT-OTA Software Update Framework for IoT Devices, IEICE Trans. Information and Systems, vol. E109-D, no. 6, pp. 792-808, Jun. 2026. [doi: 10.1587/transinf.2025icp0013](https://doi.org/10.1587/transinf.2025icp0013)
@@ -150,6 +162,10 @@ Programming Languages, pp. 115-147, Jan. 2024. [doi 10.1145/3633280](https://doi
 
 #### 2026年度
 - [Talk] Kuniyasu Suzaki, Remote Attestation on Arm TrustZone OP-TEE with VERAISON Verifier -- current status and future plan ---, OpenSSF Community Day Japan, Jun. 2026.
+- [Poster] Yin Jie, 石川 裕, 竹房 あつ子, Internet of Things (IoT) デバイスの監視・対処, NIIオープンハウス2026 ポスター展示, Jun. 2026.
+- [Poster] 青木 信雄, 竹房 あつ子, 石川 裕, 小野 泰司, 坂根 栄作, 合田 憲人, 理論とシステムソフトウェアの融合で安全・安心なIoTを実現する レジリエントなIoTソフトウェアアップデート, NIIオープンハウス2026 ポスター展示, Jun. 2026.
+- [Poster] 山下 直希, 合田 憲人, 丹生 智也, 坂根 栄作, 竹房 あつ子, 小野 泰司, 石川 裕, 青木 信雄, 理論とシステムソフトウェアの融合で安全・安心なIoTを実現する 研究ソフトウェア信頼性保証のためのソフトウェア認証機構, NIIオープンハウス2026 ポスター展示, Jun. 2026.
+- [Poster] 関山 太郎ほか, 形式検証による堅牢で安全なIoTシステムの実現, NIIオープンハウス2026 ポスター展示, Jun. 2026.
 
 #### 2025年度
 - [Talk] 神 拓己, 和賀 正樹, 五十嵐 淳, 末永 幸平, eBPFプログラムの機能正当性検証のためのモデル検査と実行時検証の統合, 第28回プログラミングおよびプログラミング言語ワークショップ PPL 2026, Mar. 2026.
@@ -218,9 +234,3 @@ security, 情報処理学会研究報告 PRO, Aug. 2023.
 - [Talk] 竹房 あつ子, 五十嵐 淳, 関山 太郎, 松井 俊浩, 小野 泰司, 福田 健介, 蓮尾 一郎, 合田 憲人, 石川 裕, ZT-IoT: ゼロトラストIoTのためのシステムソフトウェア構築に向けて, 情報処理学会研究報告, vol. 2022-OS-154, no. 3, pp. 1-16, 2022年3月. [Link](http://id.nii.ac.jp/1001/00217217/), [Slide](https://drive.google.com/file/d/1cxKrYkvDgTMrmB6wWGnWV0DMFo_JH-xN/view?usp=sharing)
 - [Poster] 竹房 あつ子, 五十嵐 淳, 関山 太郎, 松井 俊浩, 小野 泰司, 福田 健介, 蓮尾 一郎, 合田 憲人, 石川 裕, ZT-IoT: ゼロトラストIoTのためのシステムソフトウェアの検討, 情報処理学会 第154回OS研究発表会, 2022年3月.
 - [Invited Talk] 竹房あつ子, 形式検証とシステムソフトウェアの協働によるゼロトラストIoT, CREST/さきがけセッション, ComSys 2021, 2021年12月.
-
-### 公開ソフトウェア・データ
-- [software] Rabbit v2, [https://github.com/zt-iot/rabbit](https://github.com/zt-iot/rabbit), 2026.
-- [software] Rabbit, [https://github.com/zt-iot/rabbit](https://github.com/zt-iot/rabbit), 2025.
-- [software] GothX traffic generator, [https://github.com/fukuda-lab/GothX](https://github.com/fukuda-lab/GothX), 2025.
-- [database, software] OP-TEE Remote Attestation with VERAISON Verification, [https://github.com/iisec-suzaki/optee-ra](https://github.com/iisec-suzaki/optee-ra), 2024.
