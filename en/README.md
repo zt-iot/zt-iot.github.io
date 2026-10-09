@@ -154,10 +154,21 @@ We also promote social acceptance of IoT by ensuring the accountability.
 <a name="publications"> </a>
 ## Publications
 
+### Artifacts
+- [software] Realtime Application Security Monitoring (RASMO) Framework for IoT Systems, [https://github.com/zt-iot/rasmo](https://github.com/zt-iot/rasmo), Oct. 2026.
+- [software] Rabbit v2.1, [https://github.com/zt-iot/rabbit](https://github.com/zt-iot/rabbit), Oct. 2026.
+- [software] Rabbit v2, [https://github.com/zt-iot/rabbit](https://github.com/zt-iot/rabbit), 2026.
+- [software] Rabbit, [https://github.com/zt-iot/rabbit](https://github.com/zt-iot/rabbit), 2025.
+- [software] GothX traffic generator, [https://github.com/fukuda-lab/GothX](https://github.com/fukuda-lab/GothX), 2025.
+- [database, software] OP-TEE Remote Attestation with VERAISON Verification, [https://github.com/iisec-suzaki/optee-ra](https://github.com/iisec-suzaki/optee-ra), 2024.
+
 ### FY 2026
-- [Paper] Jie Yin, Yutaka Ishikawa, Atsuko Takefusa, Hardening IoT Devices with Real-time System Call Filtering and Remote Access Control, IPSJ Journal. (To appear)
-- [Poster] Atsuko Takefusa, Atsushi Igarashi, Taro Sekiyama, Kuniyasu Suzaki, Toshihiro Matsui, Jie Yin, Atsuya Osaki, Naoki Yamashita, Nobuo Aoki, Sewon Park, Terunobu Inaba, Lelio Brun, Yutaka Ishikawa, Kento Aida, Yasushi Ono, Kensuke Fukuda, Eisaku Sakane, Ichiro Hasuo, The Zero Trust IoT (ZT-IoT) Project, Proc. IEEE COMPSAC 2026, SSRPE, Jul. 2026.
-- [Paper] Takeshi Sakurada, Atsuko Takefusa, Kumiko Kobayashi, Ikki Fujiwara, Naoya Kitagawa, Kento Aida, A Prototype Implementation of SINETStream for Resource-Constrained MicroPython Environments, Proc. IEEE COMPSAC 2026, CDS, Jul. 2026.
+- [Paper] Satoshi Kura, Marco Gaboardi, Taro Sekiyama, Hiroshi Unno, A Category-Theoretic Framework for Dependent Effect Systems, Lecture Notes in Computer Science (ESOP), vol. 16501, pp. 401-431, Apr. 2026. [doi: 10.1007/978-3-032-22720-1_15](https://doi.org/10.1007/978-3-032-22720-1_15)
+- [Paper] Masaki Waga, Kotaro Matsuoka, Takashi Suwa, ArithHomFA: A toolkit for oblivious online STL monitoring, Science of Computer Programming, vol. 254, Jul. 2026. [doi: 10.1016/j.scico.2026.103539](https://doi.org/10.1016/j.scico.2026.103539)
+- [Paper] Atsuya Osaki, Ryusei Shiiba, Kensuke Fukuda, Jin Nakazawa, Overcoming eBPF Constraints: Towards Practical ML/NN-based Anomaly Detection, Journal of Information Processing, vol. 34, pp. 925-934, Sep. 2026. [doi: 10.2197/ipsjjip.34.925](https://doi.org/10.2197/ipsjjip.34.925)
+- [Paper] Jie Yin, Yutaka Ishikawa, Atsuko Takefusa, Hardening IoT Devices with Real-time System Call Filtering and Remote Access Control, Journal of Information Processing, vol. 34, pp. 871-885, Sep. 2026. [doi: 10.2197/ipsjjip.34.871](https://doi.org/10.2197/ipsjjip.34.871)
+- [Poster] Atsuko Takefusa, Atsushi Igarashi, Taro Sekiyama, Kuniyasu Suzaki, Toshihiro Matsui, Jie Yin, Atsuya Osaki, Naoki Yamashita, Nobuo Aoki, Sewon Park, Terunobu Inaba, Lelio Brun, Yutaka Ishikawa, Kento Aida, Yasushi Ono, Kensuke Fukuda, Eisaku Sakane, Ichiro Hasuo, The Zero Trust IoT (ZT-IoT) Project, Proc. IEEE COMPSAC 2026, SSRPE, Jul. 2026. [doi: 10.1109/COMPSAC69091.2026.00223](https://doi.org/10.1109/COMPSAC69091.2026.00223)
+- [Paper] Takeshi Sakurada, Atsuko Takefusa, Kumiko Kobayashi, Ikki Fujiwara, Naoya Kitagawa, Kento Aida, A Prototype Implementation of SINETStream for Resource-Constrained MicroPython Environments, Proc. IEEE COMPSAC 2026, CDS, Jul. 2026. [doi: 10.1109/COMPSAC69091.2026.00359](https://doi.org/10.1109/COMPSAC69091.2026.00359)
 - [Talk] Kuniyasu Suzaki, Remote Attestation on Arm TrustZone OP-TEE with VERAISON Verifier -- current status and future plan ---, OpenSSF Community Day Japan, Jun. 2026.
 
 ### FY 2025
@@ -215,9 +226,3 @@ ACM SIGPLAN International Conference on Systems, Programming, Languages, and App
 - [Exhibition] Zero Trust based IoT Security, SC22 Exhibition Booth no. 4205, Nov. 2022． [PDF](https://drive.google.com/file/d/1SXcRYDSkcyxqTAewuJm5YerkvJG_13ss/view?usp=sharing)
 - [Paper] Naoya Kitagawa, Atsuko Takefusa, Kento Aida, Development of a Secure Data Sharing Mechanism for IoT Application Systems, Proc. 2022 IEEE 11th International Conference on Cloud Networking (CloudNet), pp. 131-135, Nov. 2022. [doi: 10.1109/CloudNet55617.2022.9978835](https://doi.org/10.1109/CloudNet55617.2022.9978835)
 - [Paper] Ryotaro Banno, Kotaro Matsuoka, Naoki Matsumoto, Song Bian, Masaki Waga, Kohei Suenaga, Oblivious Online Monitoring for Safety LTL Specification via Fully Homomorphic Encryption, Lecture Notes in Computer Science (Computer Aided Verification), 13371, pp. 447-468, Aug. 2022. [Link](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_22)
-
-### Artifacts
-- [software] Rabbit v2, [https://github.com/zt-iot/rabbit](https://github.com/zt-iot/rabbit), 2026.
-- [software] Rabbit, [https://github.com/zt-iot/rabbit](https://github.com/zt-iot/rabbit), 2025.
-- [software] GothX traffic generator, [https://github.com/fukuda-lab/GothX](https://github.com/fukuda-lab/GothX), 2025.
-- [database, software] OP-TEE Remote Attestation with VERAISON Verification, [https://github.com/iisec-suzaki/optee-ra](https://github.com/iisec-suzaki/optee-ra), 2024.
